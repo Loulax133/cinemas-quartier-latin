@@ -1,0 +1,31 @@
+name: Mise à jour du programme
+
+on:
+  schedule:
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  programme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests beautifulsoup4
+
+      - run: python recupere.py
+
+      - name: Enregistrer le nouveau programme
+        run: |
+          git config user.name "robot-programme"
+          git config user.email "actions@github.com"
+          git add data.json
+          git diff --staged --quiet || git commit -m "Programme du $(date +%d/%m)"
+          git push
