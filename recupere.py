@@ -201,11 +201,104 @@ def lire_laclef(html):
     return seances
 
 
+# --------------------------------------------------------------- L'Officiel
+
+def lecteur_offi(nom_salle):
+    """Fabrique un lecteur pour une salle de offi.fr (même gabarit pour toutes)."""
+
+    def lire(html):
+        soup = BeautifulSoup(html, "html.parser")
+        onglets = soup.select("#tab_seances .nav-tabs .nav-item a")
+        panneaux = soup.select("#tab_seances .tab-content > div[id^='t_']")
+        if not onglets or not panneaux:
+            raise ValueError("%s : grille des séances introuvable" % nom_salle)
+
+        # Chaque onglet (« Mardi 8 Septembre ») donne la date de son panneau.
+        dates = {}
+        for onglet in onglets:
+            cible = (onglet.get("href") or "").lstrip("#")
+            le_jour = date_depuis_onglet(onglet.get_text(" ", strip=True))
+            if cible and le_jour:
+                dates[cible] = le_jour
+
+        seances = []
+        for panneau in panneaux:
+            le_jour = dates.get(panneau.get("id", ""))
+            if le_jour is None:
+                continue
+
+            for fiche in panneau.select("div[id^='minifiche_']"):
+                titre = fiche.select_one(".event-title h5 a")
+                if titre is None:
+                    continue
+
+                img = fiche.select_one("a.minifiche-image img")
+                etiquettes = [e.get_text(" ", strip=True)
+                              for e in fiche.select(".tags-container span")]
+                duree = next((e for e in etiquettes
+                              if re.fullmatch(r"\d{1,2}h\d{2}", e)), "")
+                genre = etiquettes[0] if etiquettes and etiquettes[0] != duree else ""
+
+                mention = fiche.select_one(".single-event-description .text-secondary-grey")
+                mention = mention.get_text(" ", strip=True) if mention else ""
+                mention = re.sub(r"\s+", " ", mention)
+
+                # « VO (jeudi 20h : rencontre) » : la version d'un côté,
+                # la mention particulière de l'autre, qui prend la place du genre.
+                particulier = ""
+                coupe = re.match(r"^([^(]*)\((.*)\)\s*$", mention)
+                if coupe:
+                    mention = coupe.group(1).strip()
+                    particulier = coupe.group(2).strip()
+
+                for h in fiche.select("span.event-times"):
+                    heure = normalise_heure(h.get_text(strip=True))
+                    if not heure:
+                        continue
+                    seances.append({
+                        "cine": nom_salle,
+                        "salle": "",
+                        "date": le_jour.isoformat(),
+                        "heure": heure,
+                        "titre": titre.get_text(" ", strip=True),
+                        "annee": "",
+                        "duree": duree,
+                        "cycle": particulier or genre,
+                        "note": mention,
+                        "image": img["src"] if img and img.get("src") else "",
+                        "url": titre.get("href", ""),
+                    })
+        return seances
+
+    return lire
+
+
+def date_depuis_onglet(texte):
+    """« Mardi 8 Septembre » -> une vraie date. L'année n'est pas écrite."""
+    t = sans_accents(texte)
+    m = re.search(r"(\d{1,2})\s+([a-z]+)", t)
+    if not m or m.group(2) not in MOIS:
+        return None
+    jour, mois = int(m.group(1)), MOIS[m.group(2)]
+    auj = date.today()
+    essai = date(auj.year, mois, jour)
+    # Fin décembre, les onglets débordent sur janvier prochain.
+    if (essai - auj).days < -300:
+        essai = date(auj.year + 1, mois, jour)
+    return essai
+
+
 # ----------------------------------------------------------------------- main
 
 SOURCES = [
     ("Filmothèque", "https://lafilmotheque.fr/", lire_filmotheque),
     ("La Clef", "https://laclefrevival.org/tout-le-programme/", lire_laclef),
+    ("Le Champo", "https://www.offi.fr/cinema/champo-1755.html",
+     lecteur_offi("Le Champo")),
+    ("Panthéon", "https://www.offi.fr/cinema/cinema-du-pantheon-1829.html",
+     lecteur_offi("Panthéon")),
+    ("Épée de Bois", "https://www.offi.fr/cinema/lepee-de-bois-2179.html",
+     lecteur_offi("Épée de Bois")),
 ]
 
 
