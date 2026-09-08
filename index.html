@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Cinémas du Quartier latin</title>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Quartier latin">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="theme-color" content="#e4e2d6">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#e4e2d6;
+    --encre:#1d2f6f;
+    --encre-clair:#5a68a0;
+    --rouge:#c8351f;
+    --trait:rgba(29,47,111,.22);
+    --trait-fin:rgba(29,47,111,.09);
+  }
+
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--encre);
+    font-family:Archivo,'Helvetica Neue',Arial,sans-serif;
+    font-size:16px;line-height:1.35;
+    padding-bottom:3.5rem;
+  }
+  .wrap{max-width:34rem;margin:0 auto;padding:0 1.15rem}
+
+  header{padding:1.6rem 0 .9rem}
+  .enseigne{
+    font-family:'Instrument Serif',Georgia,serif;
+    font-size:2.5rem;line-height:.95;letter-spacing:-.01em;margin:0;
+  }
+  .enseigne em{font-style:italic}
+  .aujourdhui{margin:.55rem 0 0;font-size:.92rem;color:var(--encre-clair);font-variant-numeric:tabular-nums}
+
+  .filtres{display:flex;gap:.4rem;flex-wrap:wrap;padding:.9rem 0 1.1rem;border-bottom:1px solid var(--trait)}
+  .filtre{
+    font:inherit;font-size:.82rem;padding:.34rem .7rem;
+    border:1px solid var(--trait);border-radius:2px;
+    background:transparent;color:var(--encre-clair);cursor:pointer;
+  }
+  .filtre[aria-pressed="true"]{background:var(--encre);border-color:var(--encre);color:var(--paper)}
+  .filtre:focus-visible{outline:2px solid var(--rouge);outline-offset:2px}
+
+  .jour{padding:1.5rem 0 .3rem}
+  .jour + .jour{border-top:1px solid var(--trait)}
+  .jour-date{margin:0 0 .9rem;font-size:.86rem;font-weight:600;letter-spacing:.02em}
+  .jour-date.est-aujourdhui{color:var(--rouge)}
+
+  .seance{
+    display:grid;
+    grid-template-columns:4.1rem 1fr 3.1rem;
+    gap:0 .85rem;
+    padding:.7rem 0;
+    align-items:start;
+    border-bottom:1px solid var(--trait-fin);
+    text-decoration:none;color:inherit;
+  }
+  .seance:last-child{border-bottom:none}
+  .seance:focus-visible{outline:2px solid var(--rouge);outline-offset:3px}
+
+  .heure{
+    font-size:1.4rem;font-weight:500;
+    font-variant-numeric:tabular-nums;letter-spacing:-.02em;
+    color:var(--rouge);padding-top:.12rem;
+  }
+  .titre{font-family:'Instrument Serif',Georgia,serif;font-size:1.3rem;line-height:1.12;display:block}
+  .details{margin-top:.2rem;font-size:.78rem;color:var(--encre-clair);font-variant-numeric:tabular-nums}
+  .cycle{display:inline-block;margin-top:.3rem;font-size:.72rem;padding:.12rem .38rem;border:1px solid var(--trait);border-radius:2px}
+
+  .affiche{
+    width:3.1rem;aspect-ratio:2/3;
+    object-fit:cover;display:block;
+    background:rgba(29,47,111,.07);
+    border-radius:1px;
+  }
+
+  .passee{opacity:.32}
+  .passee .heure{color:var(--encre-clair);text-decoration:line-through}
+  .prochaine .heure::after{content:"";display:block;width:1.4rem;height:2px;background:var(--rouge);margin-top:.16rem}
+
+  .message{padding:2.5rem 0;color:var(--encre-clair);font-size:.92rem}
+  .alerte{
+    margin:1rem 0 0;padding:.6rem .75rem;
+    border-left:3px solid var(--rouge);
+    font-size:.82rem;color:var(--encre);
+  }
+
+  footer{margin-top:2.5rem;padding-top:1rem;border-top:1px solid var(--trait);font-size:.74rem;color:var(--encre-clair)}
+
+  @media (prefers-reduced-motion:no-preference){
+    .jour{animation:monte .45s ease both}
+    @keyframes monte{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <h1 class="enseigne">Cinémas du<br><em>Quartier latin</em></h1>
+    <p class="aujourdhui" id="aujourdhui"></p>
+    <div id="alerte"></div>
+  </header>
+
+  <div class="filtres" id="filtres"></div>
+  <main id="programme"><p class="message">Chargement du programme…</p></main>
+  <footer id="pied"></footer>
+
+</div>
+
+<script>
+const maintenant = new Date();
+const cléDuJour = new Date(maintenant.getTime() - maintenant.getTimezoneOffset() * 60000)
+  .toISOString().slice(0, 10);
+const fmtJour = new Intl.DateTimeFormat("fr-FR", {weekday:"long", day:"numeric", month:"long"});
+const majuscule = t => t.charAt(0).toUpperCase() + t.slice(1);
+
+let SEANCES = [];
+let actifs = new Set();
+
+document.getElementById("aujourdhui").textContent = majuscule(fmtJour.format(maintenant));
+
+fetch("data.json?" + Date.now())
+  .then(r => r.json())
+  .then(donnees => {
+    SEANCES = donnees.seances || [];
+    actifs = new Set(SEANCES.map(s => s.cine));
+    construireFiltres();
+    dessiner();
+    piedDePage(donnees);
+    if (donnees.problemes && donnees.problemes.length){
+      document.getElementById("alerte").innerHTML =
+        '<p class="alerte">Une salle n\'a pas répondu à la dernière mise à jour : ' +
+        donnees.problemes.map(p => p.split(" :")[0]).join(", ") +
+        '. Ses séances peuvent manquer.</p>';
+    }
+  })
+  .catch(() => {
+    document.getElementById("programme").innerHTML =
+      '<p class="message">Le programme n\'a pas pu être chargé. Vérifie ta connexion, ' +
+      'ou rouvre la page dans un instant.</p>';
+  });
+
+function construireFiltres(){
+  const zone = document.getElementById("filtres");
+  zone.innerHTML = "";
+  [...actifs].sort().forEach(nom => {
+    const b = document.createElement("button");
+    b.className = "filtre";
+    b.type = "button";
+    b.textContent = nom;
+    b.setAttribute("aria-pressed", "true");
+    b.addEventListener("click", () => {
+      actifs.has(nom) ? actifs.delete(nom) : actifs.add(nom);
+      b.setAttribute("aria-pressed", actifs.has(nom));
+      dessiner();
+    });
+    zone.appendChild(b);
+  });
+}
+
+function dessiner(){
+  const zone = document.getElementById("programme");
+  zone.innerHTML = "";
+
+  const visibles = SEANCES
+    .filter(s => actifs.has(s.cine) && s.date >= cléDuJour)
+    .sort((a, b) => (a.date + a.heure).localeCompare(b.date + b.heure));
+
+  if (!visibles.length){
+    zone.innerHTML = '<p class="message">Rien à afficher. Réactive une salle ci-dessus.</p>';
+    return;
+  }
+
+  let jourEnCours = null, bloc = null, prochaineMarquee = false;
+
+  visibles.forEach(s => {
+    if (s.date !== jourEnCours){
+      jourEnCours = s.date;
+      bloc = document.createElement("section");
+      bloc.className = "jour";
+      const h = document.createElement("h2");
+      h.className = "jour-date" + (s.date === cléDuJour ? " est-aujourdhui" : "");
+      h.textContent = s.date === cléDuJour
+        ? "Aujourd'hui"
+        : majuscule(fmtJour.format(new Date(s.date + "T12:00")));
+      bloc.appendChild(h);
+      zone.appendChild(bloc);
+    }
+
+    const passee = new Date(s.date + "T" + s.heure) < maintenant;
+    const a = document.createElement("a");
+    a.className = "seance" + (passee ? " passee" : "");
+    a.href = s.url || "#";
+    if (s.url){ a.target = "_blank"; a.rel = "noopener"; }
+    if (!passee && !prochaineMarquee){ a.classList.add("prochaine"); prochaineMarquee = true; }
+
+    const meta = [s.cine, s.salle, s.annee, s.duree, s.note].filter(Boolean).join(" · ");
+
+    a.innerHTML =
+      '<span class="heure">' + s.heure.replace(":", "h") + '</span>' +
+      '<span><span class="titre">' + echappe(s.titre) + '</span>' +
+        '<span class="details">' + echappe(meta) + '</span>' +
+        (s.cycle ? '<span class="cycle">' + echappe(s.cycle) + '</span>' : '') +
+      '</span>' +
+      (s.image
+        ? '<img class="affiche" src="' + s.image + '" alt="" loading="lazy">'
+        : '<span class="affiche"></span>');
+
+    bloc.appendChild(a);
+  });
+}
+
+function piedDePage(donnees){
+  if (!donnees.maj) return;
+  const d = new Date(donnees.maj);
+  document.getElementById("pied").textContent =
+    "Programme relevé le " + d.toLocaleDateString("fr-FR", {day:"numeric", month:"long"}) +
+    " à " + d.toLocaleTimeString("fr-FR", {hour:"2-digit", minute:"2-digit"}) + ".";
+}
+
+function echappe(t){
+  const d = document.createElement("div");
+  d.textContent = t == null ? "" : t;
+  return d.innerHTML;
+}
+</script>
+</body>
+</html>
