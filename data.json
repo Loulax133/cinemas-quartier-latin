@@ -1,5 +1,5 @@
 {
- "maj": "2026-09-08T21:36",
+ "maj": "2026-09-08T21:38",
  "problemes": [],
  "seances": [
   {
@@ -27,6 +27,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/29329/images/120/209f0f0d133cca7859aa3a7660b08667.jpg",
    "url": "https://www.offi.fr/cinema/evenement/yojimbo-29329.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-08",
+   "heure": "13:00",
+   "titre": "Une affaire turque",
+   "annee": "",
+   "duree": "1h32",
+   "cycle": "lundi 17h : version française sous-titrée",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107233/images/120/67a4abee2096dcf1ecbcba6335044143.jpeg",
+   "url": "https://www.offi.fr/cinema/evenement/une-affaire-turque-107233.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-08",
+   "heure": "13:20",
+   "titre": "Le Bon, la Brute, et le Truand",
+   "annee": "",
+   "duree": "2h58",
+   "cycle": "Western",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/3774/images/120/f71fc70ae0fc459ba142848f7d4e0305.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/le-bon-la-brute-le-truand-3774.html"
   },
   {
    "cine": "Filmothèque",
@@ -81,6 +107,32 @@
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
   },
   {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-08",
+   "heure": "14:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-08",
+   "heure": "14:50",
+   "titre": "Kill Bill : The Whole Bloody Affair",
+   "annee": "",
+   "duree": "4h35",
+   "cycle": "Action / Aventure",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/106746/images/120/8d06cda4446132d2ed63be9282363132.jpeg",
+   "url": "https://www.offi.fr/cinema/evenement/kill-bill-the-whole-bloody-affair-106746.html"
+  },
+  {
    "cine": "Filmothèque",
    "salle": "Salle Marilyn",
    "date": "2026-09-08",
@@ -120,6 +172,19 @@
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
   },
   {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-08",
+   "heure": "16:40",
+   "titre": "Le Voyage de Chihiro",
+   "annee": "",
+   "duree": "2h05",
+   "cycle": "Animation",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/28960/images/120/1231432357864.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/le-voyage-de-chihiro-28960.html"
+  },
+  {
    "cine": "Filmothèque",
    "salle": "Salle Audrey",
    "date": "2026-09-08",
@@ -131,6 +196,19 @@
    "note": "",
    "image": "https://lafilmotheque.fr/v4/content/uploads/2022/07/el-reino-360x480.jpg",
    "url": "https://lafilmotheque.fr/films/el-reino/"
+  },
+  {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-08",
+   "heure": "17:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
   },
   {
    "cine": "Filmothèque",
@@ -172,6 +250,19 @@
    "url": "https://www.offi.fr/cinema/evenement/des-jours-et-des-nuits-dans-la-foret-107401.html"
   },
   {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-08",
+   "heure": "19:10",
+   "titre": "In Waves",
+   "annee": "",
+   "duree": "1h35",
+   "cycle": "Animation",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/106623/images/120/0401828fc308e6625bc6e8c99e70df9a.png",
+   "url": "https://www.offi.fr/cinema/evenement/in-waves-106623.html"
+  },
+  {
    "cine": "Filmothèque",
    "salle": "Salle Audrey",
    "date": "2026-09-08",
@@ -185,6 +276,19 @@
    "url": "https://lafilmotheque.fr/films/les-hommes-du-president/"
   },
   {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-08",
+   "heure": "19:50",
+   "titre": "Ran",
+   "annee": "",
+   "duree": "2h42",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/22265/images/120/a7406d189fa511207c8a44aee010eb89.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/ran-22265.html"
+  },
+  {
    "cine": "Filmothèque",
    "salle": "Salle Marilyn",
    "date": "2026-09-08",
@@ -196,6 +300,32 @@
    "note": "",
    "image": "https://lafilmotheque.fr/v4/content/uploads/2026/08/Viens-je-temmene-Affiche-384x480.jpg",
    "url": "https://lafilmotheque.fr/films/viens-je-temmene/"
+  },
+  {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-08",
+   "heure": "20:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-08",
+   "heure": "21:10",
+   "titre": "Sur la route d'Omaha",
+   "annee": "",
+   "duree": "1h23",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/106367/images/120/4cc5c37b36b90287c38e63c80e931736.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/sur-la-route-domaha-106367.html"
   },
   {
    "cine": "Le Champo",
@@ -276,6 +406,19 @@
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
   },
   {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-09",
+   "heure": "13:20",
+   "titre": "Ran",
+   "annee": "",
+   "duree": "2h42",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/22265/images/120/a7406d189fa511207c8a44aee010eb89.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/ran-22265.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-09",
@@ -289,6 +432,19 @@
    "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
   },
   {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-09",
+   "heure": "13:45",
+   "titre": "Vanille",
+   "annee": "",
+   "duree": "0h43",
+   "cycle": "Court-métrage",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/83975/images/120/08c2ec9ce6eff47e98fb6d10f0d659ca.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/vanille-83975.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-09",
@@ -300,6 +456,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107592/images/120/2684ca0825625c061ea09063dab539ab.jpg",
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
+  },
+  {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-09",
+   "heure": "14:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-09",
+   "heure": "15:00",
+   "titre": "In Waves",
+   "annee": "",
+   "duree": "1h35",
+   "cycle": "Animation",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/106623/images/120/0401828fc308e6625bc6e8c99e70df9a.png",
+   "url": "https://www.offi.fr/cinema/evenement/in-waves-106623.html"
   },
   {
    "cine": "Le Champo",
@@ -326,6 +508,45 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107592/images/120/2684ca0825625c061ea09063dab539ab.jpg",
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-09",
+   "heure": "16:30",
+   "titre": "Une affaire turque",
+   "annee": "",
+   "duree": "1h32",
+   "cycle": "Thriller",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107233/images/120/67a4abee2096dcf1ecbcba6335044143.jpeg",
+   "url": "https://www.offi.fr/cinema/evenement/une-affaire-turque-107233.html"
+  },
+  {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-09",
+   "heure": "17:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-09",
+   "heure": "17:15",
+   "titre": "Soudain",
+   "annee": "",
+   "duree": "3h16",
+   "cycle": "Drame",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107271/images/120/969d30ed5cff509c601f41f5488c0bcb.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/soudain-107271.html"
   },
   {
    "cine": "Le Champo",
@@ -367,6 +588,19 @@
    "url": "https://laclefrevival.org/project/wolobougou/"
   },
   {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-09",
+   "heure": "20:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-09",
@@ -378,6 +612,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/10654/images/120/74ff5066da0516a8c189184b08369dc7.jpg",
    "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-09",
+   "heure": "20:45",
+   "titre": "Bleeder",
+   "annee": "",
+   "duree": "1h38",
+   "cycle": "Thriller",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/62656/images/120/dd04c0df240660ee1db827247772cf35.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/bleeder-62656.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-09",
+   "heure": "21:00",
+   "titre": "Un grand raccourci",
+   "annee": "",
+   "duree": "1h21",
+   "cycle": "lundi 17h15 : version française sous-titrée",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107273/images/120/c17658d458d826bb93584d796cd3e6b1.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/un-grand-raccourci-107273.html"
   },
   {
    "cine": "Le Champo",
@@ -458,6 +718,19 @@
    "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
   },
   {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-10",
+   "heure": "14:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-10",
@@ -482,6 +755,45 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/10654/images/120/74ff5066da0516a8c189184b08369dc7.jpg",
    "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-10",
+   "heure": "15:50",
+   "titre": "Une affaire turque",
+   "annee": "",
+   "duree": "1h32",
+   "cycle": "Thriller",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107233/images/120/67a4abee2096dcf1ecbcba6335044143.jpeg",
+   "url": "https://www.offi.fr/cinema/evenement/une-affaire-turque-107233.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-10",
+   "heure": "16:00",
+   "titre": "Le Bon, la Brute, et le Truand",
+   "annee": "",
+   "duree": "2h58",
+   "cycle": "Western",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/3774/images/120/f71fc70ae0fc459ba142848f7d4e0305.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/le-bon-la-brute-le-truand-3774.html"
+  },
+  {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-10",
+   "heure": "17:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
   },
   {
    "cine": "Le Champo",
@@ -510,6 +822,32 @@
    "url": "https://www.offi.fr/cinema/evenement/des-jours-et-des-nuits-dans-la-foret-107401.html"
   },
   {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-10",
+   "heure": "19:20",
+   "titre": "Un grand raccourci",
+   "annee": "",
+   "duree": "1h21",
+   "cycle": "lundi 17h15 : version française sous-titrée",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107273/images/120/c17658d458d826bb93584d796cd3e6b1.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/un-grand-raccourci-107273.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-10",
+   "heure": "19:50",
+   "titre": "Soudain",
+   "annee": "",
+   "duree": "3h16",
+   "cycle": "Drame",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107271/images/120/969d30ed5cff509c601f41f5488c0bcb.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/soudain-107271.html"
+  },
+  {
    "cine": "La Clef",
    "salle": "",
    "date": "2026-09-10",
@@ -536,6 +874,19 @@
    "url": "https://www.offi.fr/cinema/evenement/la-planete-des-singes-1967-20907.html"
   },
   {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-10",
+   "heure": "20:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-10",
@@ -547,6 +898,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/10654/images/120/74ff5066da0516a8c189184b08369dc7.jpg",
    "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-10",
+   "heure": "21:10",
+   "titre": "Pusher",
+   "annee": "",
+   "duree": "1h50",
+   "cycle": "Thriller",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/101825/images/120/cf31a80bfc1f50d1f0c17b0614fe9d1e.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/pusher-101825.html"
   },
   {
    "cine": "Le Champo",
@@ -588,6 +952,19 @@
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
   },
   {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-11",
+   "heure": "13:15",
+   "titre": "Une affaire turque",
+   "annee": "",
+   "duree": "1h32",
+   "cycle": "Thriller",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107233/images/120/67a4abee2096dcf1ecbcba6335044143.jpeg",
+   "url": "https://www.offi.fr/cinema/evenement/une-affaire-turque-107233.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-11",
@@ -612,6 +989,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107592/images/120/2684ca0825625c061ea09063dab539ab.jpg",
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
+  },
+  {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-11",
+   "heure": "14:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-11",
+   "heure": "14:20",
+   "titre": "Soudain",
+   "annee": "",
+   "duree": "3h16",
+   "cycle": "Drame",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107271/images/120/969d30ed5cff509c601f41f5488c0bcb.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/soudain-107271.html"
   },
   {
    "cine": "Le Champo",
@@ -640,6 +1043,32 @@
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
   },
   {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-11",
+   "heure": "16:50",
+   "titre": "In Waves",
+   "annee": "",
+   "duree": "1h35",
+   "cycle": "Animation",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/106623/images/120/0401828fc308e6625bc6e8c99e70df9a.png",
+   "url": "https://www.offi.fr/cinema/evenement/in-waves-106623.html"
+  },
+  {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-11",
+   "heure": "17:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-11",
@@ -651,6 +1080,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107401/images/120/13788e78e4bc4a6f4097235f3cbdc446.jpg",
    "url": "https://www.offi.fr/cinema/evenement/des-jours-et-des-nuits-dans-la-foret-107401.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-11",
+   "heure": "18:00",
+   "titre": "Un grand raccourci",
+   "annee": "",
+   "duree": "1h21",
+   "cycle": "lundi 17h15 : version française sous-titrée",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107273/images/120/c17658d458d826bb93584d796cd3e6b1.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/un-grand-raccourci-107273.html"
   },
   {
    "cine": "Le Champo",
@@ -666,6 +1108,32 @@
    "url": "https://www.offi.fr/cinema/evenement/le-chateau-de-laraignee-version-restauree-107277.html"
   },
   {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-11",
+   "heure": "18:50",
+   "titre": "Pusher",
+   "annee": "",
+   "duree": "1h50",
+   "cycle": "Thriller",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/101825/images/120/cf31a80bfc1f50d1f0c17b0614fe9d1e.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/pusher-101825.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-11",
+   "heure": "19:50",
+   "titre": "Ran",
+   "annee": "",
+   "duree": "2h42",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/22265/images/120/a7406d189fa511207c8a44aee010eb89.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/ran-22265.html"
+  },
+  {
    "cine": "La Clef",
    "salle": "",
    "date": "2026-09-11",
@@ -677,6 +1145,19 @@
    "note": "de Peter Watkins",
    "image": "https://laclefrevival.org/wp-content/uploads/2026/08/fdp_LaClef.jpg",
    "url": "https://laclefrevival.org/project/evening-land/"
+  },
+  {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-11",
+   "heure": "20:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
   },
   {
    "cine": "Le Champo",
@@ -703,6 +1184,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/20004/images/120/5840d3bce178077c1dc01020635f3b97.jpg",
    "url": "https://www.offi.fr/cinema/evenement/paris-texas-20004.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-11",
+   "heure": "21:00",
+   "titre": "Pusher II : du sang sur les mains",
+   "annee": "",
+   "duree": "1h40",
+   "cycle": "Thriller",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/101826/images/120/b7d537cc11e5e5adde7934d30e13f8c0.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/pusher-ii-du-sang-sur-les-mains-101826.html"
   },
   {
    "cine": "Le Champo",
@@ -770,6 +1264,45 @@
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
   },
   {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-12",
+   "heure": "14:15",
+   "titre": "Ran",
+   "annee": "",
+   "duree": "2h42",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/22265/images/120/a7406d189fa511207c8a44aee010eb89.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/ran-22265.html"
+  },
+  {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-12",
+   "heure": "15:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-12",
+   "heure": "15:40",
+   "titre": "Un grand raccourci",
+   "annee": "",
+   "duree": "1h21",
+   "cycle": "lundi 17h15 : version française sous-titrée",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107273/images/120/c17658d458d826bb93584d796cd3e6b1.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/un-grand-raccourci-107273.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-12",
@@ -796,6 +1329,19 @@
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
   },
   {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-12",
+   "heure": "17:20",
+   "titre": "Soudain",
+   "annee": "",
+   "duree": "3h16",
+   "cycle": "Drame",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107271/images/120/969d30ed5cff509c601f41f5488c0bcb.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/soudain-107271.html"
+  },
+  {
    "cine": "La Clef",
    "salle": "",
    "date": "2026-09-12",
@@ -809,6 +1355,19 @@
    "url": "https://laclefrevival.org/project/3-court-metrages-de-barbara-hammer-en-16mm/"
   },
   {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-12",
+   "heure": "17:30",
+   "titre": "Princesse Mononoké",
+   "annee": "",
+   "duree": "2h14",
+   "cycle": "Animation",
+   "note": "VF",
+   "image": "https://files.offi.fr/evenement/102524/images/120/db4d36feebb2bebc357087983c233dbe.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/princesse-mononoke-102524.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-12",
@@ -820,6 +1379,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107592/images/120/2684ca0825625c061ea09063dab539ab.jpg",
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
+  },
+  {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-12",
+   "heure": "18:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
   },
   {
    "cine": "Le Champo",
@@ -861,6 +1433,45 @@
    "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
   },
   {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-12",
+   "heure": "20:45",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-12",
+   "heure": "20:45",
+   "titre": "Une affaire turque",
+   "annee": "",
+   "duree": "1h32",
+   "cycle": "Thriller",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107233/images/120/67a4abee2096dcf1ecbcba6335044143.jpeg",
+   "url": "https://www.offi.fr/cinema/evenement/une-affaire-turque-107233.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-12",
+   "heure": "21:00",
+   "titre": "In Waves",
+   "annee": "",
+   "duree": "1h35",
+   "cycle": "Animation",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/106623/images/120/0401828fc308e6625bc6e8c99e70df9a.png",
+   "url": "https://www.offi.fr/cinema/evenement/in-waves-106623.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-12",
@@ -885,6 +1496,32 @@
    "note": "",
    "image": "https://files.offi.fr/evenement/20914/images/120/ffbfa7ebd04883d7e210104af5ae5dad.jpeg",
    "url": "https://www.offi.fr/cinema/evenement/la-planete-sauvage-20914.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-13",
+   "heure": "10:40",
+   "titre": "Une affaire turque",
+   "annee": "",
+   "duree": "1h32",
+   "cycle": "Thriller",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107233/images/120/67a4abee2096dcf1ecbcba6335044143.jpeg",
+   "url": "https://www.offi.fr/cinema/evenement/une-affaire-turque-107233.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-13",
+   "heure": "10:45",
+   "titre": "Shrek 2",
+   "annee": "",
+   "duree": "1h38",
+   "cycle": "Animation",
+   "note": "VO",
+   "image": "/res/img/photo_vide_small.png",
+   "url": "https://www.offi.fr/cinema/evenement/shrek-2-24425.html"
   },
   {
    "cine": "Le Champo",
@@ -913,6 +1550,45 @@
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
   },
   {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-13",
+   "heure": "12:00",
+   "titre": "Jim Queen",
+   "annee": "",
+   "duree": "1h20",
+   "cycle": "Animation",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/106358/images/120/3d087e50f09bd4a3f1eada4784387cf6.png",
+   "url": "https://www.offi.fr/cinema/evenement/jim-queen-106358.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-13",
+   "heure": "12:40",
+   "titre": "Un grand raccourci",
+   "annee": "",
+   "duree": "1h21",
+   "cycle": "lundi 17h15 : version française sous-titrée",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107273/images/120/c17658d458d826bb93584d796cd3e6b1.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/un-grand-raccourci-107273.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-13",
+   "heure": "13:10",
+   "titre": "Vanille",
+   "annee": "",
+   "duree": "0h43",
+   "cycle": "Court-métrage",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/83975/images/120/08c2ec9ce6eff47e98fb6d10f0d659ca.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/vanille-83975.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-13",
@@ -926,6 +1602,19 @@
    "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
   },
   {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-13",
+   "heure": "14:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-13",
@@ -937,6 +1626,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107592/images/120/2684ca0825625c061ea09063dab539ab.jpg",
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-13",
+   "heure": "14:20",
+   "titre": "Soudain",
+   "annee": "",
+   "duree": "3h16",
+   "cycle": "Drame",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107271/images/120/969d30ed5cff509c601f41f5488c0bcb.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/soudain-107271.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-13",
+   "heure": "14:30",
+   "titre": "Ran",
+   "annee": "",
+   "duree": "2h42",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/22265/images/120/a7406d189fa511207c8a44aee010eb89.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/ran-22265.html"
   },
   {
    "cine": "Le Champo",
@@ -963,6 +1678,45 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/10654/images/120/74ff5066da0516a8c189184b08369dc7.jpg",
    "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
+  },
+  {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-13",
+   "heure": "17:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-13",
+   "heure": "17:40",
+   "titre": "Pusher II : du sang sur les mains",
+   "annee": "",
+   "duree": "1h40",
+   "cycle": "Thriller",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/101826/images/120/b7d537cc11e5e5adde7934d30e13f8c0.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/pusher-ii-du-sang-sur-les-mains-101826.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-13",
+   "heure": "18:00",
+   "titre": "Kill Bill : The Whole Bloody Affair",
+   "annee": "",
+   "duree": "4h35",
+   "cycle": "Action / Aventure",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/106746/images/120/8d06cda4446132d2ed63be9282363132.jpeg",
+   "url": "https://www.offi.fr/cinema/evenement/kill-bill-the-whole-bloody-affair-106746.html"
   },
   {
    "cine": "Le Champo",
@@ -1002,6 +1756,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107592/images/120/2684ca0825625c061ea09063dab539ab.jpg",
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-13",
+   "heure": "19:40",
+   "titre": "Le Bon, la Brute, et le Truand",
+   "annee": "",
+   "duree": "2h58",
+   "cycle": "Western",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/3774/images/120/f71fc70ae0fc459ba142848f7d4e0305.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/le-bon-la-brute-le-truand-3774.html"
+  },
+  {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-13",
+   "heure": "20:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
   },
   {
    "cine": "Le Champo",
@@ -1056,6 +1836,19 @@
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
   },
   {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-14",
+   "heure": "13:30",
+   "titre": "In Waves",
+   "annee": "",
+   "duree": "1h35",
+   "cycle": "Animation",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/106623/images/120/0401828fc308e6625bc6e8c99e70df9a.png",
+   "url": "https://www.offi.fr/cinema/evenement/in-waves-106623.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-14",
@@ -1069,6 +1862,32 @@
    "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
   },
   {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-14",
+   "heure": "13:40",
+   "titre": "Soudain",
+   "annee": "",
+   "duree": "3h16",
+   "cycle": "Drame",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107271/images/120/969d30ed5cff509c601f41f5488c0bcb.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/soudain-107271.html"
+  },
+  {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-14",
+   "heure": "14:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-14",
@@ -1080,6 +1899,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107592/images/120/2684ca0825625c061ea09063dab539ab.jpg",
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-14",
+   "heure": "15:20",
+   "titre": "Une affaire turque",
+   "annee": "",
+   "duree": "1h32",
+   "cycle": "Thriller",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107233/images/120/67a4abee2096dcf1ecbcba6335044143.jpeg",
+   "url": "https://www.offi.fr/cinema/evenement/une-affaire-turque-107233.html"
   },
   {
    "cine": "Le Champo",
@@ -1108,6 +1940,32 @@
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
   },
   {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-14",
+   "heure": "17:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-14",
+   "heure": "17:15",
+   "titre": "Un grand raccourci",
+   "annee": "",
+   "duree": "1h21",
+   "cycle": "lundi 17h15 : version française sous-titrée",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107273/images/120/c17658d458d826bb93584d796cd3e6b1.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/un-grand-raccourci-107273.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-14",
@@ -1119,6 +1977,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107401/images/120/13788e78e4bc4a6f4097235f3cbdc446.jpg",
    "url": "https://www.offi.fr/cinema/evenement/des-jours-et-des-nuits-dans-la-foret-107401.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-14",
+   "heure": "18:15",
+   "titre": "Bleeder",
+   "annee": "",
+   "duree": "1h38",
+   "cycle": "Thriller",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/62656/images/120/dd04c0df240660ee1db827247772cf35.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/bleeder-62656.html"
   },
   {
    "cine": "Le Champo",
@@ -1134,6 +2005,32 @@
    "url": "https://www.offi.fr/cinema/evenement/la-forteresse-cachee-107265.html"
   },
   {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-14",
+   "heure": "19:00",
+   "titre": "Pusher III : l'ange de la mort",
+   "annee": "",
+   "duree": "1h49",
+   "cycle": "Thriller",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/101827/images/120/b7d537cc11e5e5adde7934d30e13f8c0.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/pusher-iii-lange-de-la-mort-101827.html"
+  },
+  {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-14",
+   "heure": "20:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-14",
@@ -1145,6 +2042,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/10654/images/120/74ff5066da0516a8c189184b08369dc7.jpg",
    "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-14",
+   "heure": "20:15",
+   "titre": "Princesse Mononoké",
+   "annee": "",
+   "duree": "2h14",
+   "cycle": "Animation",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/102524/images/120/db4d36feebb2bebc357087983c233dbe.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/princesse-mononoke-102524.html"
   },
   {
    "cine": "Le Champo",
@@ -1199,6 +2109,19 @@
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
   },
   {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-15",
+   "heure": "13:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-15",
@@ -1225,6 +2148,19 @@
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
   },
   {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-15",
+   "heure": "15:30",
+   "titre": "Un grand raccourci",
+   "annee": "",
+   "duree": "1h21",
+   "cycle": "lundi 17h15 : version française sous-titrée",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/107273/images/120/c17658d458d826bb93584d796cd3e6b1.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/un-grand-raccourci-107273.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-15",
@@ -1238,6 +2174,19 @@
    "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
   },
   {
+   "cine": "Panthéon",
+   "salle": "",
+   "date": "2026-09-15",
+   "heure": "16:00",
+   "titre": "Fjord",
+   "annee": "",
+   "duree": "2h26",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-15",
@@ -1249,6 +2198,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107592/images/120/2684ca0825625c061ea09063dab539ab.jpg",
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-15",
+   "heure": "16:30",
+   "titre": "Le Bon, la Brute, et le Truand",
+   "annee": "",
+   "duree": "2h58",
+   "cycle": "Western",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/3774/images/120/f71fc70ae0fc459ba142848f7d4e0305.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/le-bon-la-brute-le-truand-3774.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-15",
+   "heure": "17:20",
+   "titre": "Ran",
+   "annee": "",
+   "duree": "2h42",
+   "cycle": "Drame",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/22265/images/120/a7406d189fa511207c8a44aee010eb89.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/ran-22265.html"
   },
   {
    "cine": "Le Champo",
@@ -1277,6 +2252,19 @@
    "url": "https://www.offi.fr/cinema/evenement/le-chateau-de-laraignee-version-restauree-107277.html"
   },
   {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-15",
+   "heure": "20:00",
+   "titre": "Le Corniaud",
+   "annee": "",
+   "duree": "1h50",
+   "cycle": "sous-titré en anglais",
+   "note": "",
+   "image": "https://files.offi.fr/evenement/6699/images/120/bb16fa4212678102af74d7ed4aaeaed8.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/le-corniaud-6699.html"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-15",
@@ -1288,6 +2276,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/10654/images/120/74ff5066da0516a8c189184b08369dc7.jpg",
    "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
+  },
+  {
+   "cine": "Épée de Bois",
+   "salle": "",
+   "date": "2026-09-15",
+   "heure": "20:30",
+   "titre": "Pusher III : l'ange de la mort",
+   "annee": "",
+   "duree": "1h49",
+   "cycle": "Thriller",
+   "note": "VO",
+   "image": "https://files.offi.fr/evenement/101827/images/120/b7d537cc11e5e5adde7934d30e13f8c0.jpg",
+   "url": "https://www.offi.fr/cinema/evenement/pusher-iii-lange-de-la-mort-101827.html"
   },
   {
    "cine": "Le Champo",
