@@ -1,16 +1,16 @@
 {
- "maj": "2026-09-15T05:36",
+ "maj": "2026-09-16T05:35",
  "problemes": [],
  "seances": [
   {
    "cine": "Le Champo",
    "salle": "",
-   "date": "2026-09-15",
+   "date": "2026-09-16",
    "heure": "11:40",
    "titre": "La Femme du dimanche",
    "annee": "",
    "duree": "1h45",
-   "cycle": "dimanche 14h : présentation du film par Diogo Serafim critique de cinéma",
+   "cycle": "Drame",
    "note": "VO",
    "image": "https://files.offi.fr/evenement/10654/images/120/74ff5066da0516a8c189184b08369dc7.jpg",
    "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
@@ -18,7 +18,7 @@
   {
    "cine": "Le Champo",
    "salle": "",
-   "date": "2026-09-15",
+   "date": "2026-09-16",
    "heure": "11:50",
    "titre": "A Swedish Love Story",
    "annee": "",
@@ -29,368 +29,30 @@
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
   },
   {
-   "cine": "Panthéon",
-   "salle": "",
-   "date": "2026-09-15",
-   "heure": "13:00",
-   "titre": "Fjord",
-   "annee": "",
-   "duree": "2h26",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
-  },
-  {
    "cine": "Filmothèque",
    "salle": "Salle Marilyn",
-   "date": "2026-09-15",
+   "date": "2026-09-16",
    "heure": "13:30",
-   "titre": "Vivre sa vie",
-   "annee": "1962",
-   "duree": "1h24",
-   "cycle": "",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/07/affiche-Vivre-sa-vie-1962-2-360x480.jpg",
-   "url": "https://lafilmotheque.fr/films/vivre-sa-vie/"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Audrey",
-   "date": "2026-09-15",
-   "heure": "13:30",
-   "titre": "American Gigolo",
-   "annee": "1980",
-   "duree": "2h00",
-   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/08/4434844-320x480.webp",
-   "url": "https://lafilmotheque.fr/films/american-gigolo/"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-09-15",
-   "heure": "13:40",
-   "titre": "La Femme du dimanche",
-   "annee": "",
-   "duree": "1h45",
-   "cycle": "dimanche 14h : présentation du film par Diogo Serafim critique de cinéma",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/10654/images/120/74ff5066da0516a8c189184b08369dc7.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-09-15",
-   "heure": "14:05",
-   "titre": "A Swedish Love Story",
-   "annee": "",
-   "duree": "1h59",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107592/images/120/2684ca0825625c061ea09063dab539ab.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Marilyn",
-   "date": "2026-09-15",
-   "heure": "15:10",
-   "titre": "LE CERCLE ROUGE",
-   "annee": "1970",
-   "duree": "2h20",
-   "cycle": "",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/04/Le_Cercle_rouge-affiche--353x480.jpg",
-   "url": "https://lafilmotheque.fr/films/le-cercle-rouge/"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-09-15",
-   "heure": "15:30",
-   "titre": "Un grand raccourci",
-   "annee": "",
-   "duree": "1h21",
-   "cycle": "lundi 17h15 : version française sous-titrée",
-   "note": "",
-   "image": "https://files.offi.fr/evenement/107273/images/120/c17658d458d826bb93584d796cd3e6b1.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/un-grand-raccourci-107273.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Audrey",
-   "date": "2026-09-15",
-   "heure": "15:40",
-   "titre": "Mr. Majestyk",
-   "annee": "1973",
-   "duree": "1h43",
-   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/04/Mr.-Majestyk-affiche-375x480.jpg",
-   "url": "https://lafilmotheque.fr/films/mr-majestyk/"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-09-15",
-   "heure": "15:45",
-   "titre": "La Femme du dimanche",
-   "annee": "",
-   "duree": "1h45",
-   "cycle": "dimanche 14h : présentation du film par Diogo Serafim critique de cinéma",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/10654/images/120/74ff5066da0516a8c189184b08369dc7.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
-  },
-  {
-   "cine": "Panthéon",
-   "salle": "",
-   "date": "2026-09-15",
-   "heure": "16:00",
-   "titre": "Fjord",
-   "annee": "",
-   "duree": "2h26",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-09-15",
-   "heure": "16:20",
-   "titre": "A Swedish Love Story",
-   "annee": "",
-   "duree": "1h59",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107592/images/120/2684ca0825625c061ea09063dab539ab.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-09-15",
-   "heure": "16:30",
-   "titre": "Le Bon, la Brute, et le Truand",
-   "annee": "",
-   "duree": "2h58",
-   "cycle": "Western",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/3774/images/120/f71fc70ae0fc459ba142848f7d4e0305.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/le-bon-la-brute-le-truand-3774.html"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-09-15",
-   "heure": "17:20",
-   "titre": "Ran",
-   "annee": "",
-   "duree": "2h42",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/22265/images/120/a7406d189fa511207c8a44aee010eb89.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/ran-22265.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Audrey",
-   "date": "2026-09-15",
-   "heure": "17:30",
-   "titre": "Un flic sur le toit",
-   "annee": "1976",
-   "duree": "1h47",
-   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/09/Affiche-Un-flic-sur-le-toit-copier-scaled-360x480.jpg",
-   "url": "https://lafilmotheque.fr/films/un-flic-sur-le-toit/"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Marilyn",
-   "date": "2026-09-15",
-   "heure": "17:40",
-   "titre": "Lost in translation",
-   "annee": "2004",
-   "duree": "1h44",
-   "cycle": "",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/10/lost-in-translation-affiche.jpg",
-   "url": "https://lafilmotheque.fr/films/lost-in-translation/"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-09-15",
-   "heure": "17:50",
-   "titre": "Des jours et des nuits dans la forêt",
-   "annee": "",
+   "titre": "La panthère rose",
+   "annee": "1964",
    "duree": "1h55",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107401/images/120/13788e78e4bc4a6f4097235f3cbdc446.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/des-jours-et-des-nuits-dans-la-foret-107401.html"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-09-15",
-   "heure": "18:35",
-   "titre": "Le Château de l'araignée",
-   "annee": "",
-   "duree": "1h50",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107277/images/120/f61aeda117a378917c7abb483d57938e.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/le-chateau-de-laraignee-version-restauree-107277.html"
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/11/LA-PANTHERE-ROSE-POSTER-V2-40X60-scaled-321x480.png",
+   "url": "https://lafilmotheque.fr/films/la-panthere-rose/"
   },
   {
    "cine": "Filmothèque",
    "salle": "Salle Audrey",
-   "date": "2026-09-15",
-   "heure": "19:30",
-   "titre": "Millenium : les hommes qui n'aimaient pas les femmes",
-   "annee": "2012",
-   "duree": "2h38",
-   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/04/Millenium-affiche-360x480.webp",
-   "url": "https://lafilmotheque.fr/films/millenium-les-hommes-qui-naimaient-pas-les-femmes/"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Marilyn",
-   "date": "2026-09-15",
-   "heure": "19:40",
-   "titre": "THELMA ET LOUISE",
-   "annee": "1991",
-   "duree": "2h09",
-   "cycle": "Ridley Scott avant The dog stars",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/05/5492139-360x480.webp",
-   "url": "https://lafilmotheque.fr/films/thelma-et-louise/"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-09-15",
-   "heure": "20:00",
-   "titre": "Le Corniaud",
-   "annee": "",
-   "duree": "1h50",
-   "cycle": "sous-titré en anglais",
-   "note": "",
-   "image": "https://files.offi.fr/evenement/6699/images/120/bb16fa4212678102af74d7ed4aaeaed8.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/le-corniaud-6699.html"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-09-15",
-   "heure": "20:05",
-   "titre": "La Femme du dimanche",
-   "annee": "",
-   "duree": "1h45",
-   "cycle": "dimanche 14h : présentation du film par Diogo Serafim critique de cinéma",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/10654/images/120/74ff5066da0516a8c189184b08369dc7.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-09-15",
-   "heure": "20:30",
-   "titre": "Pusher III : l'ange de la mort",
-   "annee": "",
-   "duree": "1h49",
-   "cycle": "Thriller",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/101827/images/120/b7d537cc11e5e5adde7934d30e13f8c0.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/pusher-iii-lange-de-la-mort-101827.html"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-09-15",
-   "heure": "20:40",
-   "titre": "Ran",
-   "annee": "",
-   "duree": "2h42",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/22265/images/120/a7406d189fa511207c8a44aee010eb89.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/ran-22265.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Marilyn",
-   "date": "2026-09-15",
-   "heure": "22:00",
-   "titre": "SALO OU LES 120 JOURNÉES DE SODOME",
-   "annee": "1976",
-   "duree": "1h57",
-   "cycle": "PIER PAOLO PASOLINI",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2022/04/SALO-2-light4-341x480.jpg",
-   "url": "https://lafilmotheque.fr/films/salo-ou-les-120-journees-de-sodome-2/"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-09-15",
-   "heure": "22:10",
-   "titre": "La Dame de Shanghai",
-   "annee": "",
-   "duree": "1h27",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/105411/images/120/c8497c58fc62c046884f571d490a2343.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/la-dame-de-shanghai-105411.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Audrey",
-   "date": "2026-09-15",
-   "heure": "22:20",
-   "titre": "Fargo",
-   "annee": "1996",
-   "duree": "1h38",
-   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2016/06/Fargo_200Ko-360x480.jpg",
-   "url": "https://lafilmotheque.fr/films/fargo/"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
    "date": "2026-09-16",
-   "heure": "11:40",
-   "titre": "La Femme du dimanche",
-   "annee": "",
+   "heure": "13:30",
+   "titre": "La trahison se paye cash",
+   "annee": "1974",
    "duree": "1h45",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/10654/images/120/74ff5066da0516a8c189184b08369dc7.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-09-16",
-   "heure": "11:50",
-   "titre": "A Swedish Love Story",
-   "annee": "",
-   "duree": "1h59",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107592/images/120/2684ca0825625c061ea09063dab539ab.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/08/la_trahison_se_paie_cash-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/la-trahison-se-paye-cash/"
   },
   {
    "cine": "Le Champo",
@@ -458,6 +120,32 @@
    "url": "https://www.offi.fr/cinema/evenement/une-affaire-turque-107233.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-16",
+   "heure": "15:30",
+   "titre": "La cité des dangers",
+   "annee": "1975",
+   "duree": "1h58",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/07/affiche-hustle-340x480.jpg",
+   "url": "https://lafilmotheque.fr/films/la-cite-des-dangers/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-16",
+   "heure": "15:40",
+   "titre": "La Notte",
+   "annee": "1961",
+   "duree": "2h02",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2021/10/La-Notte-affiche-blanc-271x380-1.jpg",
+   "url": "https://lafilmotheque.fr/films/la-notte-2/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-16",
@@ -523,6 +211,32 @@
    "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-16",
+   "heure": "17:45",
+   "titre": "48 heures",
+   "annee": "1983",
+   "duree": "1h37",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/11/48_heures-361x480.jpg",
+   "url": "https://lafilmotheque.fr/films/48-heures/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-16",
+   "heure": "17:50",
+   "titre": "A bout de souffle",
+   "annee": "1959",
+   "duree": "1h30",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/07/a-bout-de-souffle-353x480.jpg",
+   "url": "https://lafilmotheque.fr/films/a-bout-de-souffle/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-16",
@@ -573,6 +287,32 @@
    "note": "de Asia Zughaiar, Zachary Barr et Nick Rosen (puis la musique du Marsa Trio, Maydan Ensemble)",
    "image": "https://laclefrevival.org/wp-content/uploads/2026/08/full_I_hope_this_email_finds_you_well.-Clean-16x9-02-768x432.png",
    "url": "https://laclefrevival.org/project/10-ans-du-zoot-collectif-focus-palestine/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-16",
+   "heure": "19:30",
+   "titre": "Shana",
+   "annee": "2026",
+   "duree": "1h20",
+   "cycle": "CLOSE UP : SHANA de Lila Pinell",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shana-affiche-353x480.jpeg",
+   "url": "https://lafilmotheque.fr/films/shana/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-16",
+   "heure": "19:40",
+   "titre": "LITTLE ODESSA",
+   "annee": "1995",
+   "duree": "1h38",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/02/little-odessa-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/little-odessa/"
   },
   {
    "cine": "Le Champo",
@@ -640,6 +380,19 @@
    "url": "https://www.offi.fr/cinema/evenement/bleeder-62656.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-16",
+   "heure": "21:30",
+   "titre": "MYSTIC RIVER",
+   "annee": "2003",
+   "duree": "2h17",
+   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/05/Mystic-River-affiche-357x480.jpg",
+   "url": "https://lafilmotheque.fr/films/mystic-river/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-16",
@@ -651,6 +404,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/9879/images/120/fce99133991cb00c1b17839a40730b21.jpg",
    "url": "https://www.offi.fr/cinema/evenement/lesprit-de-la-ruche-9879.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-16",
+   "heure": "22:10",
+   "titre": "Lost in translation",
+   "annee": "2004",
+   "duree": "1h44",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/10/lost-in-translation-affiche.jpg",
+   "url": "https://lafilmotheque.fr/films/lost-in-translation/"
   },
   {
    "cine": "Le Champo",
@@ -677,6 +443,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107592/images/120/2684ca0825625c061ea09063dab539ab.jpg",
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-17",
+   "heure": "13:30",
+   "titre": "LE VIOLENT",
+   "annee": "1950",
+   "duree": "1h34",
+   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2021/12/435px-In_a_Lonely_Place_1950_poster-253x380-1.jpg",
+   "url": "https://lafilmotheque.fr/films/le-violent/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-17",
+   "heure": "13:30",
+   "titre": "Léon Morin, prêtre",
+   "annee": "1961",
+   "duree": "2h10",
+   "cycle": "Jean-Pierre Melville",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2020/01/photo-leon-morin-pretre--336x480.jpg",
+   "url": "https://lafilmotheque.fr/films/leon-morin-prete/"
   },
   {
    "cine": "Épée de Bois",
@@ -744,6 +536,19 @@
    "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-17",
+   "heure": "15:20",
+   "titre": "Gilda",
+   "annee": "1946",
+   "duree": "1h50",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2016/05/51653-372x480.jpg",
+   "url": "https://lafilmotheque.fr/films/gilda/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-17",
@@ -755,6 +560,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/105807/images/120/3f5031c0399ee3b121386c366f542f0a.jpg",
    "url": "https://www.offi.fr/cinema/evenement/la-ragazza-di-bube-version-restauree-105807.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-17",
+   "heure": "15:50",
+   "titre": "THEOREME",
+   "annee": "1968",
+   "duree": "1h38",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2018/06/théorème-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/theoreme/"
   },
   {
    "cine": "Le Champo",
@@ -783,6 +601,32 @@
    "url": "https://www.offi.fr/cinema/evenement/un-grand-raccourci-107273.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-17",
+   "heure": "17:20",
+   "titre": "La Chasse (Cruising)",
+   "annee": "1980",
+   "duree": "1h42",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2016/06/Cruising_la_chasse-352x480.jpg",
+   "url": "https://lafilmotheque.fr/films/la-chasse/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-17",
+   "heure": "17:40",
+   "titre": "Fight Club",
+   "annee": "1999",
+   "duree": "2h19",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/05/Fight-club-aff.jpeg",
+   "url": "https://lafilmotheque.fr/films/fight-club/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-17",
@@ -794,6 +638,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/10654/images/120/74ff5066da0516a8c189184b08369dc7.jpg",
    "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-17",
+   "heure": "19:20",
+   "titre": "L'Impasse",
+   "annee": "1993",
+   "duree": "2h24",
+   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/02/l-impasse-362x480.jpg",
+   "url": "https://lafilmotheque.fr/films/limpasse/"
   },
   {
    "cine": "Le Champo",
@@ -835,6 +692,19 @@
    "url": "https://laclefrevival.org/project/25-ans-de-cinema-hors-capitale-1-emigration/"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-17",
+   "heure": "20:10",
+   "titre": "Do The Right Thing",
+   "annee": "1989",
+   "duree": "2h00",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/05/201209.jpg",
+   "url": "https://lafilmotheque.fr/films/do-the-right-thing/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-17",
@@ -848,6 +718,19 @@
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-17",
+   "heure": "22:00",
+   "titre": "Psychose",
+   "annee": "1960",
+   "duree": "1h50",
+   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/08/3532106-360x480.webp",
+   "url": "https://lafilmotheque.fr/films/psychose/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-17",
@@ -859,6 +742,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/94653/images/120/727e15deef127c0092f3e209935089ca.jpeg",
    "url": "https://www.offi.fr/cinema/evenement/buena-vista-social-club-94653.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-17",
+   "heure": "22:20",
+   "titre": "Climax",
+   "annee": "2018",
+   "duree": "1h33",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2022/03/1934766.jpg-c_310_420_x-f_jpg-q_x-xxyxx.jpg",
+   "url": "https://lafilmotheque.fr/films/climax/"
   },
   {
    "cine": "Le Champo",
@@ -885,6 +781,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107592/images/120/2684ca0825625c061ea09063dab539ab.jpg",
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-18",
+   "heure": "13:30",
+   "titre": "Le silence de la mer",
+   "annee": "1949",
+   "duree": "1h26",
+   "cycle": "Jean-Pierre Melville",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2020/01/le-silence-de-la-mer-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/le-silence-de-la-mer/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-18",
+   "heure": "13:30",
+   "titre": "Ici brigade criminelle",
+   "annee": "1954",
+   "duree": "1h21",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/04/Ici-brigade-criminelle-343x480.jpg",
+   "url": "https://lafilmotheque.fr/films/ici-brigade-criminelle/"
   },
   {
    "cine": "Le Champo",
@@ -952,6 +874,32 @@
    "url": "https://www.offi.fr/cinema/evenement/le-bon-la-brute-le-truand-3774.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-18",
+   "heure": "15:10",
+   "titre": "Autopsie d'un meurtre",
+   "annee": "1959",
+   "duree": "2h40",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/07/Affiche-Autopsie-dun-meurtre-323x480.jpeg",
+   "url": "https://lafilmotheque.fr/films/autopsie-dun-meurtre/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-18",
+   "heure": "15:15",
+   "titre": "La Ronde de l'aube",
+   "annee": "1957",
+   "duree": "1h31",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2022/10/18958191.jpg-c_310_420_x-f_jpg-q_x-xxyxx.jpg",
+   "url": "https://lafilmotheque.fr/films/la-ronde-de-laube/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-18",
@@ -978,6 +926,19 @@
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-18",
+   "heure": "17:00",
+   "titre": "Ghost in the shell",
+   "annee": "1997",
+   "duree": "1h23",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/02/ghost-in-the-shell-affiche-336x480.png",
+   "url": "https://lafilmotheque.fr/films/ghost-in-the-shell/"
+  },
+  {
    "cine": "Panthéon",
    "salle": "",
    "date": "2026-09-18",
@@ -1002,6 +963,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/10654/images/120/74ff5066da0516a8c189184b08369dc7.jpg",
    "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-18",
+   "heure": "18:00",
+   "titre": "Un justicier dans la ville",
+   "annee": "1974",
+   "duree": "1h34",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/04/un-justicier-dans-la-ville-affiche-351x480.jpg",
+   "url": "https://lafilmotheque.fr/films/un-justicier-dans-la-ville/"
   },
   {
    "cine": "La Clef",
@@ -1043,6 +1017,19 @@
    "url": "https://www.offi.fr/cinema/evenement/la-dame-de-shanghai-105411.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-18",
+   "heure": "18:30",
+   "titre": "LES HOMMES DU PRESIDENT",
+   "annee": "1976",
+   "duree": "2h18",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2016/10/LES-HOMMES-AFFICHE-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/les-hommes-du-president/"
+  },
+  {
    "cine": "Épée de Bois",
    "salle": "",
    "date": "2026-09-18",
@@ -1054,6 +1041,19 @@
    "note": "",
    "image": "/res/img/photo_vide_small.png",
    "url": "https://www.offi.fr/cinema/evenement/le-grand-bleu-12252.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-18",
+   "heure": "19:50",
+   "titre": "The King of New York",
+   "annee": "1990",
+   "duree": "1h40",
+   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2017/08/Aff-THE-KING-OF-NEW-YORK-HD-417x480.jpg",
+   "url": "https://lafilmotheque.fr/films/the-king-of-new-york/"
   },
   {
    "cine": "Le Champo",
@@ -1108,6 +1108,19 @@
    "url": "https://www.offi.fr/cinema/evenement/apocalypse-now-final-cut-75036.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-18",
+   "heure": "21:00",
+   "titre": "Magnolia",
+   "annee": "1999",
+   "duree": "3h04",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/02/magnolia-367x480.jpg",
+   "url": "https://lafilmotheque.fr/films/magnolia/"
+  },
+  {
    "cine": "La Clef",
    "salle": "",
    "date": "2026-09-18",
@@ -1132,6 +1145,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/101825/images/120/cf31a80bfc1f50d1f0c17b0614fe9d1e.jpg",
    "url": "https://www.offi.fr/cinema/evenement/pusher-101825.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-18",
+   "heure": "21:40",
+   "titre": "Memories of Murder",
+   "annee": "2004",
+   "duree": "2h12",
+   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2017/07/477957-362x480.jpg",
+   "url": "https://lafilmotheque.fr/films/memories-of-murder/"
   },
   {
    "cine": "Le Champo",
@@ -1199,6 +1225,32 @@
    "url": "https://www.offi.fr/cinema/evenement/un-grand-raccourci-107273.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-19",
+   "heure": "13:30",
+   "titre": "Duellistes",
+   "annee": "1977",
+   "duree": "1h40",
+   "cycle": "Ridley Scott avant The dog stars",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/05/42-duellistesaffdef-e1284132674106-r550-361x480.jpg",
+   "url": "https://lafilmotheque.fr/films/duellistes/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-19",
+   "heure": "13:30",
+   "titre": "LES FORBANS DE LA NUIT",
+   "annee": "1950",
+   "duree": "1h31",
+   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2022/07/images-320x480.jpg",
+   "url": "https://lafilmotheque.fr/films/les-forbans-de-la-nuit/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-19",
@@ -1264,6 +1316,32 @@
    "url": "https://www.offi.fr/cinema/evenement/degel-107499.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-19",
+   "heure": "15:15",
+   "titre": "Péché mortel",
+   "annee": "1945",
+   "duree": "1h51",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2016/05/3431838-320x480.webp",
+   "url": "https://lafilmotheque.fr/films/peche-mortel/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-19",
+   "heure": "15:20",
+   "titre": "LE SACRIFICE",
+   "annee": "1986",
+   "duree": "2h27",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/03/Le-Sacrifice-affiche-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/le-sacrifice/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-19",
@@ -1303,6 +1381,19 @@
    "url": "https://laclefrevival.org/project/25-ans-de-cinema-hors-capitale-5-les-plans-sont-bouleverses/"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-19",
+   "heure": "17:15",
+   "titre": "La Nuit du chasseur",
+   "annee": "1955",
+   "duree": "1h33",
+   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2017/02/La-nuit-du-chasseur-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/la-nuit-du-chasseur/"
+  },
+  {
    "cine": "Épée de Bois",
    "salle": "",
    "date": "2026-09-19",
@@ -1327,6 +1418,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/10654/images/120/74ff5066da0516a8c189184b08369dc7.jpg",
    "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-19",
+   "heure": "18:00",
+   "titre": "LE SAMOURAÏ",
+   "annee": "1967",
+   "duree": "1h45",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/04/Le-Samouraï-324x480.jpg",
+   "url": "https://lafilmotheque.fr/films/le-samourai/"
   },
   {
    "cine": "Panthéon",
@@ -1368,6 +1472,19 @@
    "url": "https://www.offi.fr/cinema/evenement/james-et-la-peche-geante-104836.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-19",
+   "heure": "19:00",
+   "titre": "Assurance sur la mort",
+   "annee": "1944",
+   "duree": "1h47",
+   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2016/05/Assurance-sur-la-mort-affiche.webp",
+   "url": "https://lafilmotheque.fr/films/assurance-sur-la-mort/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-19",
@@ -1379,6 +1496,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/10654/images/120/74ff5066da0516a8c189184b08369dc7.jpg",
    "url": "https://www.offi.fr/cinema/evenement/la-femme-du-dimanche-10654.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-19",
+   "heure": "20:00",
+   "titre": "THELMA ET LOUISE",
+   "annee": "1991",
+   "duree": "2h09",
+   "cycle": "Ridley Scott avant The dog stars",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/05/5492139-360x480.webp",
+   "url": "https://lafilmotheque.fr/films/thelma-et-louise/"
   },
   {
    "cine": "Épée de Bois",
@@ -1433,6 +1563,19 @@
    "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-19",
+   "heure": "21:00",
+   "titre": "Heat",
+   "annee": "1995",
+   "duree": "2h50",
+   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/05/aff1-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/heat/"
+  },
+  {
    "cine": "Épée de Bois",
    "salle": "",
    "date": "2026-09-19",
@@ -1457,6 +1600,19 @@
    "note": "",
    "image": "https://files.offi.fr/evenement/105113/images/120/055ecdb9a30d7e93dcc7e576312c9588.jpg",
    "url": "https://www.offi.fr/cinema/evenement/les-choses-de-la-vie-105113.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-19",
+   "heure": "22:20",
+   "titre": "Les Anges déchus",
+   "annee": "1995",
+   "duree": "1h39",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/07/FALLEN-ANGELS-AFF-352x480.jpg",
+   "url": "https://lafilmotheque.fr/films/les-anges-dechus/"
   },
   {
    "cine": "Épée de Bois",
@@ -1550,6 +1706,32 @@
    "url": "https://www.offi.fr/cinema/evenement/soudain-107271.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-20",
+   "heure": "13:30",
+   "titre": "Laura",
+   "annee": "1944",
+   "duree": "1h28",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/09/affiche-laura-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/laura/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-20",
+   "heure": "13:40",
+   "titre": "CITIZEN KANE",
+   "annee": "1941",
+   "duree": "1h59",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2022/03/Citizen_Kane_poster_1941_Style_B_unrestored-scaled-320x480.jpg",
+   "url": "https://lafilmotheque.fr/films/citizen-kane/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-20",
@@ -1615,6 +1797,19 @@
    "url": "https://www.offi.fr/cinema/evenement/james-et-la-peche-geante-104836.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-20",
+   "heure": "15:10",
+   "titre": "Mark Dixon détective",
+   "annee": "1951",
+   "duree": "1h35",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2022/01/1732223.jpg-r_1920_1080-f_jpg-q_x-xxyxx-340x480.jpg",
+   "url": "https://lafilmotheque.fr/films/mark-dixon-detective-2/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-20",
@@ -1626,6 +1821,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/105807/images/120/3f5031c0399ee3b121386c366f542f0a.jpg",
    "url": "https://www.offi.fr/cinema/evenement/la-ragazza-di-bube-version-restauree-105807.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-20",
+   "heure": "15:55",
+   "titre": "Goodbye, Dragon Inn",
+   "annee": "2004",
+   "duree": "1h22",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/04/18381473-360x480.webp",
+   "url": "https://lafilmotheque.fr/films/goodbye-dragon-inn/"
   },
   {
    "cine": "Le Champo",
@@ -1652,6 +1860,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/22265/images/120/a7406d189fa511207c8a44aee010eb89.jpg",
    "url": "https://www.offi.fr/cinema/evenement/ran-22265.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-20",
+   "heure": "17:00",
+   "titre": "Sunset boulevard",
+   "annee": "1950",
+   "duree": "1h50",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2013/10/sunset_boulevard_xlg-318x480.jpg",
+   "url": "https://lafilmotheque.fr/films/sunset-boulevard/"
   },
   {
    "cine": "La Clef",
@@ -1693,6 +1914,19 @@
    "url": "https://www.offi.fr/cinema/evenement/entre-le-ciel-et-lenfer-9676.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-20",
+   "heure": "17:40",
+   "titre": "In The Mood For Love",
+   "annee": "2000",
+   "duree": "1h38",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2020/10/In-The-Mood-For-Love-Wong-Kar-Wai-354x480.jpg",
+   "url": "https://lafilmotheque.fr/films/in-the-mood-for-love/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-20",
@@ -1717,6 +1951,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107592/images/120/2684ca0825625c061ea09063dab539ab.jpg",
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-20",
+   "heure": "19:00",
+   "titre": "Zodiac",
+   "annee": "2007",
+   "duree": "2h37",
+   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2023/11/zodiac-320x480.jpg",
+   "url": "https://lafilmotheque.fr/films/zodiac/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-20",
+   "heure": "19:40",
+   "titre": "NOSTALGHIA",
+   "annee": "1985",
+   "duree": "2h05",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/03/Nostalghia-affiche-344x480.jpg",
+   "url": "https://lafilmotheque.fr/films/nostalghia/"
   },
   {
    "cine": "Le Champo",
@@ -1784,6 +2044,32 @@
    "url": "https://www.offi.fr/cinema/evenement/mademoiselle-62739.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-20",
+   "heure": "21:50",
+   "titre": "SEVEN",
+   "annee": "1995",
+   "duree": "2h10",
+   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2024/06/19255605-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/seven/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-20",
+   "heure": "22:00",
+   "titre": "POSSESSION",
+   "annee": "1981",
+   "duree": "2h03",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/06/possession.jpg",
+   "url": "https://lafilmotheque.fr/films/possession-les-betes/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-20",
@@ -1821,6 +2107,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107592/images/120/2684ca0825625c061ea09063dab539ab.jpg",
    "url": "https://www.offi.fr/cinema/evenement/a-swedish-love-story-version-restauree-107592.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-21",
+   "heure": "13:30",
+   "titre": "Le Doulos",
+   "annee": "1962",
+   "duree": "1h50",
+   "cycle": "Jean-Pierre Melville",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2017/05/Le_Doulos-340x480.jpg",
+   "url": "https://lafilmotheque.fr/films/le-doulos/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-21",
+   "heure": "13:30",
+   "titre": "Huit heures de sursis",
+   "annee": "1948",
+   "duree": "1h56",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/08/Huit-heures-de-sursis-affiche-342x480.jpg",
+   "url": "https://lafilmotheque.fr/films/huit-heures-de-sursis/"
   },
   {
    "cine": "Épée de Bois",
@@ -1914,6 +2226,32 @@
    "url": "https://www.offi.fr/cinema/evenement/le-bon-la-brute-le-truand-3774.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-21",
+   "heure": "15:30",
+   "titre": "CLOSE-UP",
+   "annee": "1991",
+   "duree": "1h34",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2024/04/304121-1-1-353x480.jpg",
+   "url": "https://lafilmotheque.fr/films/close-up/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-21",
+   "heure": "15:40",
+   "titre": "L'étrangleur de la place Rillington",
+   "annee": "1981",
+   "duree": "1h51",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/04/Letrangleur-de-la-place-rillington-affiche.png",
+   "url": "https://lafilmotheque.fr/films/letrangleur-de-la-place-rillington/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-21",
@@ -1953,6 +2291,32 @@
    "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-21",
+   "heure": "17:20",
+   "titre": "L'inconnue du lac",
+   "annee": "2013",
+   "duree": "1h32",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/08/Linconnue-du-lac-affiche-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/linconnue-du-lac/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-21",
+   "heure": "17:45",
+   "titre": "Tonnerre de Feu",
+   "annee": "1983",
+   "duree": "1h48",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/08/tonnerre-de-feu-affiche-1983-france.jpg-320x480.webp",
+   "url": "https://lafilmotheque.fr/films/tonnerre-de-feu/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-21",
@@ -1977,6 +2341,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/101827/images/120/b7d537cc11e5e5adde7934d30e13f8c0.jpg",
    "url": "https://www.offi.fr/cinema/evenement/pusher-iii-lange-de-la-mort-101827.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-21",
+   "heure": "19:15",
+   "titre": "2001, l'odyssée de l'espace",
+   "annee": "1968",
+   "duree": "2h29",
+   "cycle": "2001, L'odyssée de l'espace de stanley kubrick",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2018/05/4306860.jpg-r_1920_1080-f_jpg-q_x-xxyxx-325x480.jpg",
+   "url": "https://lafilmotheque.fr/films/2001-lodyssee-de-lespace/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-21",
+   "heure": "19:50",
+   "titre": "Plein soleil",
+   "annee": "1960",
+   "duree": "1h54",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2017/05/21006728_20130517115334245-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/plein-soleil/"
   },
   {
    "cine": "Le Champo",
@@ -2044,6 +2434,19 @@
    "url": "https://www.offi.fr/cinema/evenement/sanjuro-23703.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-21",
+   "heure": "22:00",
+   "titre": "BONNIE AND CLYDE",
+   "annee": "1968",
+   "duree": "1h51",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2018/08/bonnie-and-clyde-362x480.jpg",
+   "url": "https://lafilmotheque.fr/films/bonnie-and-clyde/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-21",
@@ -2055,6 +2458,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/25182/images/120/325b962e926e2207805a6f51b2f692bd.jpg",
    "url": "https://www.offi.fr/cinema/evenement/stranger-than-paradise-25182.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-21",
+   "heure": "22:30",
+   "titre": "Eraserhead",
+   "annee": "1977",
+   "duree": "1h29",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2017/11/200444-354x480.jpg",
+   "url": "https://lafilmotheque.fr/films/eraserhead/"
   },
   {
    "cine": "Le Champo",
@@ -2094,6 +2510,32 @@
    "note": "",
    "image": "https://files.offi.fr/evenement/107273/images/120/c17658d458d826bb93584d796cd3e6b1.jpg",
    "url": "https://www.offi.fr/cinema/evenement/un-grand-raccourci-107273.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-22",
+   "heure": "13:30",
+   "titre": "L'inconnu du Nord-Express",
+   "annee": "1951",
+   "duree": "1h41",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/08/recto-a-l27inconnu-du-nord-express-340x480.jpg",
+   "url": "https://lafilmotheque.fr/films/linconnu-du-nord-express/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-22",
+   "heure": "13:30",
+   "titre": "Le Grand Couteau",
+   "annee": "1955",
+   "duree": "1h51",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/08/le_grand_couteau-367x480.jpg",
+   "url": "https://lafilmotheque.fr/films/le-grand-couteau/"
   },
   {
    "cine": "Le Champo",
@@ -2161,6 +2603,32 @@
    "url": "https://www.offi.fr/cinema/evenement/ran-22265.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-22",
+   "heure": "15:20",
+   "titre": "LES HOMMES DU PRESIDENT",
+   "annee": "1976",
+   "duree": "2h18",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2016/10/LES-HOMMES-AFFICHE-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/les-hommes-du-president/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-22",
+   "heure": "15:30",
+   "titre": "En quatrième vitesse",
+   "annee": "1955",
+   "duree": "1h46",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2016/08/Quatriem_A4_WEB-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/en-quatrieme-vitesse/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-22",
@@ -2200,6 +2668,19 @@
    "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-22",
+   "heure": "17:30",
+   "titre": "À BOUT DE COURSE",
+   "annee": "1988",
+   "duree": "1h55",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2022/08/19482482-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/a-bout-de-course/"
+  },
+  {
    "cine": "Épée de Bois",
    "salle": "",
    "date": "2026-09-22",
@@ -2211,6 +2692,19 @@
    "note": "",
    "image": "https://files.offi.fr/evenement/107233/images/120/67a4abee2096dcf1ecbcba6335044143.jpeg",
    "url": "https://www.offi.fr/cinema/evenement/une-affaire-turque-107233.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-22",
+   "heure": "17:50",
+   "titre": "Ichi the Killer",
+   "annee": "2001",
+   "duree": "2h09",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/01/AFF-ICHI-THE-KILLER-682x1024-1-320x480.jpg",
+   "url": "https://lafilmotheque.fr/films/ichi-the-the-killer/"
   },
   {
    "cine": "Le Champo",
@@ -2265,6 +2759,19 @@
    "url": "https://www.offi.fr/cinema/evenement/apocalypse-now-final-cut-75036.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-22",
+   "heure": "19:40",
+   "titre": "Chinatown",
+   "annee": "1974",
+   "duree": "2h10",
+   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/10/Chinatown-affiche-320x480.jpg",
+   "url": "https://lafilmotheque.fr/films/chinatown/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-22",
@@ -2289,6 +2796,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
    "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-22",
+   "heure": "20:15",
+   "titre": "Chungking express",
+   "annee": "1994",
+   "duree": "1h37",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/07/CHUNGKING-EXPRESS-AFF-352x480.jpg",
+   "url": "https://lafilmotheque.fr/films/chungking-express/"
   },
   {
    "cine": "Épée de Bois",
@@ -2317,6 +2837,19 @@
    "url": "https://www.offi.fr/cinema/evenement/ran-22265.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-09-22",
+   "heure": "22:00",
+   "titre": "LE SILENCE DES AGNEAUX",
+   "annee": "1991",
+   "duree": "1h58",
+   "cycle": "L'ÉTÉ DU FILM NOIR EN 100 FILMS - Prolongation",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2022/05/4218638-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/le-silence-des-agneaux/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-09-22",
@@ -2328,6 +2861,110 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/91506/images/120/f0bbf239c6690e3dfef07108585a0e6e.jpg",
    "url": "https://www.offi.fr/cinema/evenement/to-be-or-not-to-be-91506.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-09-22",
+   "heure": "22:10",
+   "titre": "WHIPLASH",
+   "annee": "2014",
+   "duree": "1h47",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2023/01/whiplash_affiche-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/whiplash/"
+  },
+  {
+   "cine": "La Clef",
+   "salle": "",
+   "date": "2026-09-23",
+   "heure": "20:00",
+   "titre": "We are making a film about Mark Fisher",
+   "annee": "",
+   "duree": "",
+   "cycle": "",
+   "note": "",
+   "image": "https://laclefrevival.org/wp-content/uploads/2026/09/MF-7-4k-768x432.png",
+   "url": "https://laclefrevival.org/project/we-are-making-a-film-about-mark-fisher/"
+  },
+  {
+   "cine": "La Clef",
+   "salle": "",
+   "date": "2026-09-24",
+   "heure": "20:00",
+   "titre": "Le Pirate Noir en 16mm",
+   "annee": "",
+   "duree": "",
+   "cycle": "",
+   "note": "de Douglas Fairbanks",
+   "image": "https://laclefrevival.org/wp-content/uploads/2026/09/Capture-decran-2026-07-17-a-15.26.17-768x573.png",
+   "url": "https://laclefrevival.org/project/le-pirate-noir-en-16mm/"
+  },
+  {
+   "cine": "La Clef",
+   "salle": "",
+   "date": "2026-09-25",
+   "heure": "20:00",
+   "titre": "Archives Dissidentes (La huella + La memoria de las mariposas)",
+   "annee": "",
+   "duree": "",
+   "cycle": "",
+   "note": "de Tatiana Fuentes Sadowski",
+   "image": "https://laclefrevival.org/wp-content/uploads/2026/09/Mariposas_Still_6-1-768x432.jpg",
+   "url": "https://laclefrevival.org/project/archives-dissidentes-la-huella-la-memoria-de-las-mariposas/"
+  },
+  {
+   "cine": "La Clef",
+   "salle": "",
+   "date": "2026-09-26",
+   "heure": "16:00",
+   "titre": "Lettres sonores : atelier",
+   "annee": "",
+   "duree": "",
+   "cycle": "",
+   "note": "de l'association Ré/créations",
+   "image": "https://laclefrevival.org/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-14-at-10.46.05-768x497.jpeg",
+   "url": "https://laclefrevival.org/project/lettres-sonores-atelier/"
+  },
+  {
+   "cine": "La Clef",
+   "salle": "",
+   "date": "2026-09-26",
+   "heure": "18:00",
+   "titre": "Archives Dissidentes : Bosque arriba en la montaña",
+   "annee": "",
+   "duree": "",
+   "cycle": "",
+   "note": "de Sofía Bordenave",
+   "image": "https://laclefrevival.org/wp-content/uploads/2026/09/BOSQUE_arriba_07-768x432.jpg",
+   "url": "https://laclefrevival.org/project/archives-dissidentes-bosque-arriba-en-la-montana/"
+  },
+  {
+   "cine": "La Clef",
+   "salle": "",
+   "date": "2026-09-26",
+   "heure": "20:00",
+   "titre": "Archives Dissidentes : La vida que vendrá",
+   "annee": "",
+   "duree": "",
+   "cycle": "",
+   "note": "de Karin Cuyul",
+   "image": "https://laclefrevival.org/wp-content/uploads/2026/09/LVQV_1mod-768x576.jpg",
+   "url": "https://laclefrevival.org/project/archives-dissidentes-la-vida-que-vendra/"
+  },
+  {
+   "cine": "La Clef",
+   "salle": "",
+   "date": "2026-09-27",
+   "heure": "19:00",
+   "titre": "Les amarrés / Ta vie nouvelle",
+   "annee": "",
+   "duree": "",
+   "cycle": "",
+   "note": "de Lilian Fanara, Juliana Brousse (en leur présence)",
+   "image": "https://laclefrevival.org/wp-content/uploads/2026/09/Capture-decran-2026-07-09-a-15.50.04-768x430.png",
+   "url": "https://laclefrevival.org/project/les-amarres-ta-vie-nouvelle/"
   }
  ]
 }
