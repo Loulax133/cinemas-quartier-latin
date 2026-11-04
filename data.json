@@ -1,451 +1,9 @@
 {
- "maj": "2026-11-03T12:54",
+ "maj": "2026-11-04T13:07",
  "problemes": [
   "La Clef : aucune séance récupérée"
  ],
  "seances": [
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "11:50",
-   "titre": "Maison de poupée",
-   "annee": "",
-   "duree": "1h46",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107859/images/120/728cb7613d528f627c516276789c6c67.jpeg",
-   "url": "https://www.offi.fr/cinema/evenement/maison-de-poupee-version-restauree-107859.html"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "12:00",
-   "titre": "Le Silence",
-   "annee": "",
-   "duree": "1h36",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/24524/images/120/f423cd49502deeb9287f6a7d59771390.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/le-silence-24524.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Marilyn",
-   "date": "2026-11-03",
-   "heure": "13:30",
-   "titre": "Shanghai express",
-   "annee": "1932",
-   "duree": "1h22",
-   "cycle": "Marlene dietrich : quand la femme prend le pouvoir — Séance spéciale : SHANGHAÏ EXPRESS présenté par antoine sire",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
-   "url": "https://lafilmotheque.fr/films/shanghai-express/"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Audrey",
-   "date": "2026-11-03",
-   "heure": "13:30",
-   "titre": "PARIS BLUES",
-   "annee": "1961",
-   "duree": "1h38",
-   "cycle": "",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2024/07/MV5BNWU0ZDc2MzktZDg5NS00MDAzLTg5ZjctMzE4NDAwNmUwNzA4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_-315x480.jpg",
-   "url": "https://lafilmotheque.fr/films/paris-blues/"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "13:50",
-   "titre": "Des pissenlits par la racine",
-   "annee": "",
-   "duree": "1h35",
-   "cycle": "Comédie",
-   "note": "",
-   "image": "/res/img/photo_vide_small.png",
-   "url": "https://www.offi.fr/cinema/evenement/des-pissenlits-par-la-racine-7999.html"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "13:50",
-   "titre": "Safe",
-   "annee": "",
-   "duree": "1h59",
-   "cycle": "Todd Haynes : Les premiers pas,mardi 20h : suivi d’une rencontre avec Judith Revault d'Allonnes, responsable cinéma du centre Pompidou",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/108211/images/120/df1c2387ae5425bf571819e990b1bc94.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/safe-version-restauree-108211.html"
-  },
-  {
-   "cine": "Panthéon",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "14:00",
-   "titre": "Butterfly Jam",
-   "annee": "",
-   "duree": "1h42",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107945/images/120/bdc80b921050d6e6a0c8c6214a447fde.jpeg",
-   "url": "https://www.offi.fr/cinema/evenement/butterfly-jam-107945.html"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "14:20",
-   "titre": "Pressure",
-   "annee": "",
-   "duree": "1h40",
-   "cycle": "Historique",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107653/images/120/9737348b2cb3df8be59641442bb0cf7b.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/pressure-107653.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Marilyn",
-   "date": "2026-11-03",
-   "heure": "15:05",
-   "titre": "Blonde Venus",
-   "annee": "1932",
-   "duree": "1h32",
-   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/BLONDE-VENUS-affiche-321x480.jpg",
-   "url": "https://lafilmotheque.fr/films/blonde-venus/"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Audrey",
-   "date": "2026-11-03",
-   "heure": "15:20",
-   "titre": "Mouchette",
-   "annee": "1967",
-   "duree": "1h21",
-   "cycle": "",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2024/05/492619-360x480.jpg",
-   "url": "https://lafilmotheque.fr/films/mouchette/"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "15:20",
-   "titre": "De la Comédie-Française",
-   "annee": "",
-   "duree": "1h15",
-   "cycle": "mardi 15h20 : version française sous-titrée",
-   "note": "",
-   "image": "https://files.offi.fr/evenement/106794/images/120/3b914edbd1b237bba1788a3d54b6968e.jpeg",
-   "url": "https://www.offi.fr/cinema/evenement/de-la-comedie-francaise-106794.html"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "15:45",
-   "titre": "The Servant",
-   "annee": "",
-   "duree": "1h55",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/24220/images/120/f9b381966b0bef115ee03889b7c76acb.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/the-servant-24220.html"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "16:00",
-   "titre": "Poison",
-   "annee": "",
-   "duree": "1h25",
-   "cycle": "Todd Haynes : Les premiers pas",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/108136/images/120/ddebe2fde8badec63b43700b488c1181.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/poison-version-restauree-108136.html"
-  },
-  {
-   "cine": "Panthéon",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "16:00",
-   "titre": "Butterfly Jam",
-   "annee": "",
-   "duree": "1h42",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107945/images/120/bdc80b921050d6e6a0c8c6214a447fde.jpeg",
-   "url": "https://www.offi.fr/cinema/evenement/butterfly-jam-107945.html"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "16:40",
-   "titre": "Aprile",
-   "annee": "",
-   "duree": "1h18",
-   "cycle": "Comédie dramatique",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107860/images/120/78dc7c88fcc36c53f178afd380c04116.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/aprile-version-restauree-107860.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Marilyn",
-   "date": "2026-11-03",
-   "heure": "16:50",
-   "titre": "La femme et le pantin (The Devil is a Woman)",
-   "annee": "1935",
-   "duree": "1h20",
-   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/FEMME-PANTIN-affiche-321x480.jpg",
-   "url": "https://lafilmotheque.fr/films/la-femme-et-le-pantin-the-devil-is-a-woman/"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Audrey",
-   "date": "2026-11-03",
-   "heure": "17:00",
-   "titre": "The Murderer",
-   "annee": "2011",
-   "duree": "2h20",
-   "cycle": "Na Hong-Jin avant Hope",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/The-murderer-affiche-360x480.webp",
-   "url": "https://lafilmotheque.fr/films/the-murderer/"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "17:40",
-   "titre": "Safe",
-   "annee": "",
-   "duree": "1h59",
-   "cycle": "Todd Haynes : Les premiers pas,mardi 20h : suivi d’une rencontre avec Judith Revault d'Allonnes, responsable cinéma du centre Pompidou",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/108211/images/120/df1c2387ae5425bf571819e990b1bc94.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/safe-version-restauree-108211.html"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "17:50",
-   "titre": "La Vie d'une femme",
-   "annee": "",
-   "duree": "1h38",
-   "cycle": "Drame",
-   "note": "",
-   "image": "https://files.offi.fr/evenement/106334/images/120/6c7207171a02855e6e1af044ae275cd2.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/la-vie-dune-femme-106334.html"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "17:55",
-   "titre": "Les Tontons flingueurs",
-   "annee": "",
-   "duree": "1h45",
-   "cycle": "Comédie",
-   "note": "",
-   "image": "https://files.offi.fr/evenement/26190/images/120/3360ad4c37eaf4f4de2d812dfe99cb2e.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/les-tontons-flingueurs-26190.html"
-  },
-  {
-   "cine": "Panthéon",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "18:00",
-   "titre": "Butterfly Jam",
-   "annee": "",
-   "duree": "1h42",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107945/images/120/bdc80b921050d6e6a0c8c6214a447fde.jpeg",
-   "url": "https://www.offi.fr/cinema/evenement/butterfly-jam-107945.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Marilyn",
-   "date": "2026-11-03",
-   "heure": "18:20",
-   "titre": "L'IMPÉRATRICE ROUGE",
-   "annee": "1934",
-   "duree": "1h45",
-   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/03/IMPERATRICE-ROUGE-affiche-321x480.jpg",
-   "url": "https://lafilmotheque.fr/films/limperatrice-rouge/"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "18:30",
-   "titre": "Cure",
-   "annee": "",
-   "duree": "1h55",
-   "cycle": "Thriller",
-   "note": "VO",
-   "image": "/res/img/photo_vide_small.png",
-   "url": "https://www.offi.fr/cinema/evenement/cure-7164.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Audrey",
-   "date": "2026-11-03",
-   "heure": "19:30",
-   "titre": "Messidor",
-   "annee": "1979",
-   "duree": "2h03",
-   "cycle": "Messidor d'alain tanner",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/10/Messidor-affiche-352x480.webp",
-   "url": "https://lafilmotheque.fr/films/messidor/"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "20:00",
-   "titre": "Safe",
-   "annee": "",
-   "duree": "1h59",
-   "cycle": "Todd Haynes : Les premiers pas,mardi 20h : suivi d’une rencontre avec Judith Revault d'Allonnes, responsable cinéma du centre Pompidou",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/108211/images/120/df1c2387ae5425bf571819e990b1bc94.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/safe-version-restauree-108211.html"
-  },
-  {
-   "cine": "Panthéon",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "20:00",
-   "titre": "Butterfly Jam",
-   "annee": "",
-   "duree": "1h42",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107945/images/120/bdc80b921050d6e6a0c8c6214a447fde.jpeg",
-   "url": "https://www.offi.fr/cinema/evenement/butterfly-jam-107945.html"
-  },
-  {
-   "cine": "Panthéon",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "20:00",
-   "titre": "Notre salut",
-   "annee": "",
-   "duree": "2h35",
-   "cycle": "Lost In Frenchlation",
-   "note": "",
-   "image": "https://files.offi.fr/evenement/107839/images/120/980328359bdb83e1a60755105f7e171a.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/notre-salut-107839.html"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "20:00",
-   "titre": "Shining",
-   "annee": "",
-   "duree": "1h55",
-   "cycle": "Horreur",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/24391/images/120/93e997c4819707f7c381f61dab62735c.jpeg",
-   "url": "https://www.offi.fr/cinema/evenement/shining-24391.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Marilyn",
-   "date": "2026-11-03",
-   "heure": "20:20",
-   "titre": "Shanghai express",
-   "annee": "1932",
-   "duree": "1h22",
-   "cycle": "Marlene dietrich : quand la femme prend le pouvoir — Séance spéciale : SHANGHAÏ EXPRESS présenté par antoine sire",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
-   "url": "https://lafilmotheque.fr/films/shanghai-express/"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Marilyn",
-   "date": "2026-11-03",
-   "heure": "20:20",
-   "titre": "Shanghai express",
-   "annee": "1932",
-   "duree": "1h22",
-   "cycle": "Marlene dietrich : quand la femme prend le pouvoir — Séance spéciale : SHANGHAÏ EXPRESS présenté par antoine sire",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
-   "url": "https://lafilmotheque.fr/films/shanghai-express/"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "20:50",
-   "titre": "Les Roches rouges",
-   "annee": "",
-   "duree": "1h30",
-   "cycle": "Drame",
-   "note": "",
-   "image": "https://files.offi.fr/evenement/107775/images/120/a974798e868f2eb65ada216006559c81.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/les-roches-rouges-107775.html"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-03",
-   "heure": "21:35",
-   "titre": "Poison",
-   "annee": "",
-   "duree": "1h25",
-   "cycle": "Todd Haynes : Les premiers pas",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/108136/images/120/ddebe2fde8badec63b43700b488c1181.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/poison-version-restauree-108136.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Marilyn",
-   "date": "2026-11-03",
-   "heure": "22:20",
-   "titre": "Les Anges déchus",
-   "annee": "1995",
-   "duree": "1h39",
-   "cycle": "",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/07/FALLEN-ANGELS-AFF-352x480.jpg",
-   "url": "https://lafilmotheque.fr/films/les-anges-dechus/"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Audrey",
-   "date": "2026-11-03",
-   "heure": "22:30",
-   "titre": "Nowhere",
-   "annee": "1997",
-   "duree": "1h22",
-   "cycle": "",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Nowhere-affiche-347x480.jpg",
-   "url": "https://lafilmotheque.fr/films/nowhere/"
-  },
   {
    "cine": "Épée de Bois",
    "salle": "",
@@ -510,6 +68,32 @@
    "note": "",
    "image": "https://files.offi.fr/evenement/107775/images/120/a974798e868f2eb65ada216006559c81.jpg",
    "url": "https://www.offi.fr/cinema/evenement/les-roches-rouges-107775.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-04",
+   "heure": "13:30",
+   "titre": "Hantise",
+   "annee": "1944",
+   "duree": "1h54",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2017/05/hantise-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/hantise/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-04",
+   "heure": "13:30",
+   "titre": "Blonde Venus",
+   "annee": "1932",
+   "duree": "1h32",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/BLONDE-VENUS-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/blonde-venus/"
   },
   {
    "cine": "Le Champo",
@@ -577,6 +161,32 @@
    "url": "https://www.offi.fr/cinema/evenement/coraline-15eme-anniversaire-99078.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-04",
+   "heure": "15:15",
+   "titre": "La femme et le pantin (The Devil is a Woman)",
+   "annee": "1935",
+   "duree": "1h20",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/FEMME-PANTIN-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/la-femme-et-le-pantin-the-devil-is-a-woman/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-04",
+   "heure": "15:40",
+   "titre": "CLOSE-UP",
+   "annee": "1991",
+   "duree": "1h34",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2024/04/304121-1-1-353x480.jpg",
+   "url": "https://lafilmotheque.fr/films/close-up/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-04",
@@ -629,6 +239,19 @@
    "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-04",
+   "heure": "16:50",
+   "titre": "L'IMPÉRATRICE ROUGE",
+   "annee": "1934",
+   "duree": "1h45",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/03/IMPERATRICE-ROUGE-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/limperatrice-rouge/"
+  },
+  {
    "cine": "Épée de Bois",
    "salle": "",
    "date": "2026-11-04",
@@ -640,6 +263,19 @@
    "note": "",
    "image": "https://files.offi.fr/evenement/108083/images/120/ad116a0087f83982b9b33f2cdbd39bab.jpeg",
    "url": "https://www.offi.fr/cinema/evenement/une-femme-aujourdhui-108083.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-04",
+   "heure": "17:30",
+   "titre": "Blow Up",
+   "annee": "1967",
+   "duree": "1h51",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/04/blow-up-pt.jpg",
+   "url": "https://lafilmotheque.fr/films/blow-up/"
   },
   {
    "cine": "Le Champo",
@@ -668,6 +304,19 @@
    "url": "https://www.offi.fr/cinema/evenement/the-social-reckoning-107939.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-04",
+   "heure": "18:45",
+   "titre": "Shanghai express",
+   "annee": "1932",
+   "duree": "1h22",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
+   "url": "https://lafilmotheque.fr/films/shanghai-express/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-04",
@@ -679,6 +328,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/813/images/120/c49f029badc71ac6ef96c79f7f175120.jpeg",
    "url": "https://www.offi.fr/cinema/evenement/affreux-sales-et-mechants-813.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-04",
+   "heure": "19:30",
+   "titre": "Les Parapluies de Cherbourg",
+   "annee": "1964",
+   "duree": "1h31",
+   "cycle": "Les parapluies de cherbourg de jacques demy",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/05/artoff6678-e1539017967551-320x480.webp",
+   "url": "https://lafilmotheque.fr/films/les-parapluies-de-cherbourg/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-04",
+   "heure": "20:20",
+   "titre": "Blonde Venus",
+   "annee": "1932",
+   "duree": "1h32",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/BLONDE-VENUS-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/blonde-venus/"
   },
   {
    "cine": "Épée de Bois",
@@ -705,6 +380,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/23967/images/120/749f2cb422ab4f3544eaf29562703393.jpg",
    "url": "https://www.offi.fr/cinema/evenement/le-secret-derriere-la-porte-23967.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-04",
+   "heure": "22:00",
+   "titre": "Lost in translation",
+   "annee": "2004",
+   "duree": "1h44",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/10/lost-in-translation-affiche.jpg",
+   "url": "https://lafilmotheque.fr/films/lost-in-translation/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-04",
+   "heure": "22:00",
+   "titre": "Do The Right Thing",
+   "annee": "1989",
+   "duree": "2h00",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/05/201209.jpg",
+   "url": "https://lafilmotheque.fr/films/do-the-right-thing/"
   },
   {
    "cine": "Le Champo",
@@ -798,6 +499,19 @@
    "url": "https://www.offi.fr/cinema/evenement/la-vie-dune-femme-106334.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-05",
+   "heure": "15:00",
+   "titre": "Elena",
+   "annee": "2012",
+   "duree": "1h49",
+   "cycle": "Andreï Zviaguintsev avant minotaure",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2017/09/20017349-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/elena/"
+  },
+  {
    "cine": "Panthéon",
    "salle": "",
    "date": "2026-11-05",
@@ -809,6 +523,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107945/images/120/bdc80b921050d6e6a0c8c6214a447fde.jpeg",
    "url": "https://www.offi.fr/cinema/evenement/butterfly-jam-107945.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-05",
+   "heure": "15:05",
+   "titre": "Blonde Venus",
+   "annee": "1932",
+   "duree": "1h32",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/BLONDE-VENUS-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/blonde-venus/"
   },
   {
    "cine": "Le Champo",
@@ -848,6 +575,32 @@
    "note": "",
    "image": "https://files.offi.fr/evenement/106794/images/120/3b914edbd1b237bba1788a3d54b6968e.jpeg",
    "url": "https://www.offi.fr/cinema/evenement/de-la-comedie-francaise-106794.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-05",
+   "heure": "16:50",
+   "titre": "La femme et le pantin (The Devil is a Woman)",
+   "annee": "1935",
+   "duree": "1h20",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/FEMME-PANTIN-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/la-femme-et-le-pantin-the-devil-is-a-woman/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-05",
+   "heure": "17:00",
+   "titre": "NOSTALGHIA",
+   "annee": "1985",
+   "duree": "2h05",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/03/Nostalghia-affiche-344x480.jpg",
+   "url": "https://lafilmotheque.fr/films/nostalghia/"
   },
   {
    "cine": "Panthéon",
@@ -915,6 +668,32 @@
    "url": "https://www.offi.fr/cinema/evenement/une-femme-aujourdhui-108083.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-05",
+   "heure": "18:20",
+   "titre": "L'IMPÉRATRICE ROUGE",
+   "annee": "1934",
+   "duree": "1h45",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/03/IMPERATRICE-ROUGE-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/limperatrice-rouge/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-05",
+   "heure": "19:15",
+   "titre": "Incendies",
+   "annee": "2010",
+   "duree": "2h03",
+   "cycle": "STRATE MOVIE CLUB : Incendies de denis villeneuve",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2024/04/da2a0a82b974d4ae9e15fe758e2a1af7-333x480.jpg",
+   "url": "https://lafilmotheque.fr/films/incendies/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-05",
@@ -954,6 +733,19 @@
    "url": "https://www.offi.fr/cinema/evenement/le-gout-des-autres-105501.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-05",
+   "heure": "20:20",
+   "titre": "Shanghai express",
+   "annee": "1932",
+   "duree": "1h22",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
+   "url": "https://lafilmotheque.fr/films/shanghai-express/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-05",
@@ -978,6 +770,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107939/images/120/7fc7748ba680689a8ab360e719f304c8.jpg",
    "url": "https://www.offi.fr/cinema/evenement/the-social-reckoning-107939.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-05",
+   "heure": "21:50",
+   "titre": "Sailor et Lula",
+   "annee": "1990",
+   "duree": "2h07",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/03/sailor-et-lula.jpg",
+   "url": "https://lafilmotheque.fr/films/sailor-et-lula/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-05",
+   "heure": "22:20",
+   "titre": "The Doom Generation",
+   "annee": "1995",
+   "duree": "1h25",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2024/05/s-l1600-2-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/the-doom-generation/"
   },
   {
    "cine": "Le Champo",
@@ -1017,6 +835,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/317/images/120/875e4ab4d5817304aab633600affc433.jpg",
    "url": "https://www.offi.fr/cinema/evenement/le-7e-sceau-317.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-06",
+   "heure": "13:30",
+   "titre": "Frankenstein",
+   "annee": "1932",
+   "duree": "1h10",
+   "cycle": "after Halloween à la filmothèque",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/10/Frankenstein-310x480.jpg",
+   "url": "https://lafilmotheque.fr/films/frankenstein-2/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-06",
+   "heure": "13:30",
+   "titre": "L'IMPÉRATRICE ROUGE",
+   "annee": "1934",
+   "duree": "1h45",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/03/IMPERATRICE-ROUGE-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/limperatrice-rouge/"
   },
   {
    "cine": "Épée de Bois",
@@ -1084,6 +928,19 @@
    "url": "https://www.offi.fr/cinema/evenement/les-roches-rouges-107775.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-06",
+   "heure": "14:50",
+   "titre": "Le Bannissement",
+   "annee": "2008",
+   "duree": "2h30",
+   "cycle": "Andreï Zviaguintsev avant minotaure",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2017/09/18889604-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/le-bannissement/"
+  },
+  {
    "cine": "Épée de Bois",
    "salle": "",
    "date": "2026-11-06",
@@ -1095,6 +952,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/24391/images/120/93e997c4819707f7c381f61dab62735c.jpeg",
    "url": "https://www.offi.fr/cinema/evenement/shining-24391.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-06",
+   "heure": "15:25",
+   "titre": "Shanghai express",
+   "annee": "1932",
+   "duree": "1h22",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
+   "url": "https://lafilmotheque.fr/films/shanghai-express/"
   },
   {
    "cine": "Le Champo",
@@ -1147,6 +1017,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107860/images/120/78dc7c88fcc36c53f178afd380c04116.jpg",
    "url": "https://www.offi.fr/cinema/evenement/aprile-version-restauree-107860.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-06",
+   "heure": "17:00",
+   "titre": "Blonde Venus",
+   "annee": "1932",
+   "duree": "1h32",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/BLONDE-VENUS-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/blonde-venus/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-06",
+   "heure": "17:30",
+   "titre": "Goodbye, Dragon Inn",
+   "annee": "2004",
+   "duree": "1h22",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/04/18381473-360x480.webp",
+   "url": "https://lafilmotheque.fr/films/goodbye-dragon-inn/"
   },
   {
    "cine": "Le Champo",
@@ -1214,6 +1110,32 @@
    "url": "https://www.offi.fr/cinema/evenement/affreux-sales-et-mechants-813.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-06",
+   "heure": "18:45",
+   "titre": "La femme et le pantin (The Devil is a Woman)",
+   "annee": "1935",
+   "duree": "1h20",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/FEMME-PANTIN-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/la-femme-et-le-pantin-the-devil-is-a-woman/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-06",
+   "heure": "19:10",
+   "titre": "SOY CUBA",
+   "annee": "1964",
+   "duree": "2h21",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2024/01/soy-cuba-385x480.jpg",
+   "url": "https://lafilmotheque.fr/films/soy-cuba/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-06",
@@ -1253,6 +1175,19 @@
    "url": "https://www.offi.fr/cinema/evenement/une-femme-aujourdhui-108083.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-06",
+   "heure": "20:20",
+   "titre": "L'IMPÉRATRICE ROUGE",
+   "annee": "1934",
+   "duree": "1h45",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/03/IMPERATRICE-ROUGE-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/limperatrice-rouge/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-06",
@@ -1266,6 +1201,19 @@
    "url": "https://www.offi.fr/cinema/evenement/paris-texas-20004.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-06",
+   "heure": "21:40",
+   "titre": "2001, l'odyssée de l'espace",
+   "annee": "1968",
+   "duree": "2h29",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2018/05/4306860.jpg-r_1920_1080-f_jpg-q_x-xxyxx-325x480.jpg",
+   "url": "https://lafilmotheque.fr/films/2001-lodyssee-de-lespace/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-06",
@@ -1277,6 +1225,19 @@
    "note": "",
    "image": "https://files.offi.fr/evenement/26190/images/120/3360ad4c37eaf4f4de2d812dfe99cb2e.jpg",
    "url": "https://www.offi.fr/cinema/evenement/les-tontons-flingueurs-26190.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-06",
+   "heure": "22:20",
+   "titre": "Drive",
+   "annee": "2011",
+   "duree": "1h40",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2022/10/19803697.jpg-c_310_420_x-f_jpg-q_x-xxyxx.jpg",
+   "url": "https://lafilmotheque.fr/films/drive/"
   },
   {
    "cine": "Le Champo",
@@ -1303,6 +1264,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/11467/images/120/1f56b6100f12f7dd65ce74b0649e9fd7.jpg",
    "url": "https://www.offi.fr/cinema/evenement/les-fraises-sauvages-11467.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-07",
+   "heure": "13:30",
+   "titre": "Network (Main basse sur la télévision)",
+   "annee": "1977",
+   "duree": "2h01",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/05/71MayCVqN5L._AC_UF10001000_QL80_-345x480.jpg",
+   "url": "https://lafilmotheque.fr/films/network-main-basse-sur-la-television/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-07",
+   "heure": "13:30",
+   "titre": "Shanghai express",
+   "annee": "1932",
+   "duree": "1h22",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
+   "url": "https://lafilmotheque.fr/films/shanghai-express/"
   },
   {
    "cine": "Le Champo",
@@ -1370,6 +1357,19 @@
    "url": "https://www.offi.fr/cinema/evenement/the-social-reckoning-107939.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-07",
+   "heure": "15:05",
+   "titre": "Blonde Venus",
+   "annee": "1932",
+   "duree": "1h32",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/BLONDE-VENUS-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/blonde-venus/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-07",
@@ -1381,6 +1381,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/108136/images/120/ddebe2fde8badec63b43700b488c1181.jpg",
    "url": "https://www.offi.fr/cinema/evenement/poison-version-restauree-108136.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-07",
+   "heure": "15:45",
+   "titre": "Quand Harry rencontre Sally",
+   "annee": "1989",
+   "duree": "1h36",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/07/Capture-decran-2025-07-18-a-14.43.53-343x480.png",
+   "url": "https://lafilmotheque.fr/films/quand-harry-rencontre-sally/"
   },
   {
    "cine": "Le Champo",
@@ -1435,6 +1448,19 @@
    "url": "https://www.offi.fr/cinema/evenement/une-femme-aujourdhui-108083.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-07",
+   "heure": "16:50",
+   "titre": "La femme et le pantin (The Devil is a Woman)",
+   "annee": "1935",
+   "duree": "1h20",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/FEMME-PANTIN-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/la-femme-et-le-pantin-the-devil-is-a-woman/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-07",
@@ -1448,6 +1474,19 @@
    "url": "https://www.offi.fr/cinema/evenement/safe-version-restauree-108211.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-07",
+   "heure": "17:35",
+   "titre": "L'Invasion des profanateurs",
+   "annee": "1978",
+   "duree": "1h55",
+   "cycle": "after Halloween à la filmothèque",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/10/wjaR8465S0maJJXmLz2NacXuoie-320x480.webp",
+   "url": "https://lafilmotheque.fr/films/linvasion-des-profanateurs/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-07",
@@ -1459,6 +1498,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/18943/images/120/6f1cc1b55666a780fea12907d3895093.jpg",
    "url": "https://www.offi.fr/cinema/evenement/nous-nous-sommes-tant-aimes-18943.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-07",
+   "heure": "18:20",
+   "titre": "L'IMPÉRATRICE ROUGE",
+   "annee": "1934",
+   "duree": "1h45",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/03/IMPERATRICE-ROUGE-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/limperatrice-rouge/"
   },
   {
    "cine": "Épée de Bois",
@@ -1513,6 +1565,19 @@
    "url": "https://www.offi.fr/cinema/evenement/mademoiselle-62739.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-07",
+   "heure": "19:45",
+   "titre": "Les Anges déchus",
+   "annee": "1995",
+   "duree": "1h39",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/07/FALLEN-ANGELS-AFF-352x480.jpg",
+   "url": "https://lafilmotheque.fr/films/les-anges-dechus/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-07",
@@ -1524,6 +1589,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/813/images/120/c49f029badc71ac6ef96c79f7f175120.jpeg",
    "url": "https://www.offi.fr/cinema/evenement/affreux-sales-et-mechants-813.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-07",
+   "heure": "20:20",
+   "titre": "Shanghai express",
+   "annee": "1932",
+   "duree": "1h22",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
+   "url": "https://lafilmotheque.fr/films/shanghai-express/"
   },
   {
    "cine": "Épée de Bois",
@@ -1563,6 +1641,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/38606/images/120/1286180342472.jpg",
    "url": "https://www.offi.fr/cinema/evenement/kaboom-38606.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-07",
+   "heure": "21:40",
+   "titre": "Mulholland Drive",
+   "annee": "2001",
+   "duree": "2h26",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/03/mulholland-drive-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/mulholland-drive/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-07",
+   "heure": "22:00",
+   "titre": "OLD BOY",
+   "annee": "2003",
+   "duree": "1h59",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2024/03/AFF-120-OLD-BOY-PARK-CHAN-WOOK-DEF.1e265ddb-8782-4d95-8ebc-f4bbf4454ccd-scaled-353x480.jpg",
+   "url": "https://lafilmotheque.fr/films/old-boy/"
   },
   {
    "cine": "Le Champo",
@@ -1656,6 +1760,32 @@
    "url": "https://www.offi.fr/cinema/evenement/de-la-comedie-francaise-106794.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-08",
+   "heure": "13:30",
+   "titre": "Le Retour",
+   "annee": "2003",
+   "duree": "1h46",
+   "cycle": "Andreï Zviaguintsev avant minotaure",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2017/09/18364888-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/le-retour/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-08",
+   "heure": "13:30",
+   "titre": "L'IMPÉRATRICE ROUGE",
+   "annee": "1934",
+   "duree": "1h45",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/03/IMPERATRICE-ROUGE-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/limperatrice-rouge/"
+  },
+  {
    "cine": "Panthéon",
    "salle": "",
    "date": "2026-11-08",
@@ -1721,6 +1851,32 @@
    "url": "https://www.offi.fr/cinema/evenement/soudain-107271.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-08",
+   "heure": "15:25",
+   "titre": "Shanghai express",
+   "annee": "1932",
+   "duree": "1h22",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
+   "url": "https://lafilmotheque.fr/films/shanghai-express/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-08",
+   "heure": "15:30",
+   "titre": "Douze Hommes en Colère",
+   "annee": "1957",
+   "duree": "1h35",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2024/01/6ry3ihhtctwr4dgxai8lopls6bs-869-320x480.jpg",
+   "url": "https://lafilmotheque.fr/films/douze-hommes-en-colere/"
+  },
+  {
    "cine": "Panthéon",
    "salle": "",
    "date": "2026-11-08",
@@ -1771,6 +1927,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/108136/images/120/ddebe2fde8badec63b43700b488c1181.jpg",
    "url": "https://www.offi.fr/cinema/evenement/poison-version-restauree-108136.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-08",
+   "heure": "17:00",
+   "titre": "Blonde Venus",
+   "annee": "1932",
+   "duree": "1h32",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/BLONDE-VENUS-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/blonde-venus/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-08",
+   "heure": "17:20",
+   "titre": "In The Mood For Love",
+   "annee": "2000",
+   "duree": "1h38",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2020/10/In-The-Mood-For-Love-Wong-Kar-Wai-354x480.jpg",
+   "url": "https://lafilmotheque.fr/films/in-the-mood-for-love/"
   },
   {
    "cine": "Panthéon",
@@ -1838,6 +2020,32 @@
    "url": "https://www.offi.fr/cinema/evenement/une-femme-aujourdhui-108083.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-08",
+   "heure": "18:45",
+   "titre": "La femme et le pantin (The Devil is a Woman)",
+   "annee": "1935",
+   "duree": "1h20",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/FEMME-PANTIN-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/la-femme-et-le-pantin-the-devil-is-a-woman/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-08",
+   "heure": "19:20",
+   "titre": "THELMA ET LOUISE",
+   "annee": "1991",
+   "duree": "2h09",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/05/5492139-360x480.webp",
+   "url": "https://lafilmotheque.fr/films/thelma-et-louise/"
+  },
+  {
    "cine": "Panthéon",
    "salle": "",
    "date": "2026-11-08",
@@ -1877,6 +2085,19 @@
    "url": "https://www.offi.fr/cinema/evenement/scenes-de-la-vie-conjugale-23869.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-08",
+   "heure": "20:20",
+   "titre": "L'IMPÉRATRICE ROUGE",
+   "annee": "1934",
+   "duree": "1h45",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/03/IMPERATRICE-ROUGE-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/limperatrice-rouge/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-08",
@@ -1903,6 +2124,32 @@
    "url": "https://www.offi.fr/cinema/evenement/the-social-reckoning-107939.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-08",
+   "heure": "21:40",
+   "titre": "The Murderer",
+   "annee": "2011",
+   "duree": "2h20",
+   "cycle": "Na Hong-Jin avant Hope",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/The-murderer-affiche-360x480.webp",
+   "url": "https://lafilmotheque.fr/films/the-murderer/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-08",
+   "heure": "22:20",
+   "titre": "After Hours",
+   "annee": "1985",
+   "duree": "1h38",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/after-hours-affiche.jpg",
+   "url": "https://lafilmotheque.fr/films/after-hours/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-09",
@@ -1927,6 +2174,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/20455/images/120/30ce5b0e72c15e62cf81c4a82dd5f2c9.jpg",
    "url": "https://www.offi.fr/cinema/evenement/persona-20455.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-09",
+   "heure": "13:30",
+   "titre": "Sur les quais",
+   "annee": "1954",
+   "duree": "1h46",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2016/11/sur-les-quais-1-355x480.jpg",
+   "url": "https://lafilmotheque.fr/films/sur-les-quais/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-09",
+   "heure": "13:30",
+   "titre": "Shanghai express",
+   "annee": "1932",
+   "duree": "1h22",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
+   "url": "https://lafilmotheque.fr/films/shanghai-express/"
   },
   {
    "cine": "Le Champo",
@@ -1994,6 +2267,32 @@
    "url": "https://www.offi.fr/cinema/evenement/garance-107782.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-09",
+   "heure": "15:05",
+   "titre": "Blonde Venus",
+   "annee": "1932",
+   "duree": "1h32",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/BLONDE-VENUS-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/blonde-venus/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-09",
+   "heure": "15:30",
+   "titre": "Des filles disparaissent",
+   "annee": "1947",
+   "duree": "1h42",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Des-filles-disparaissent-affiche-359x480.jpg",
+   "url": "https://lafilmotheque.fr/films/des-filles-disparaissent/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-09",
@@ -2044,6 +2343,32 @@
    "note": "",
    "image": "https://files.offi.fr/evenement/107775/images/120/a974798e868f2eb65ada216006559c81.jpg",
    "url": "https://www.offi.fr/cinema/evenement/les-roches-rouges-107775.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-09",
+   "heure": "16:50",
+   "titre": "La femme et le pantin (The Devil is a Woman)",
+   "annee": "1935",
+   "duree": "1h20",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/FEMME-PANTIN-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/la-femme-et-le-pantin-the-devil-is-a-woman/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-09",
+   "heure": "17:20",
+   "titre": "THE THING",
+   "annee": "1982",
+   "duree": "1h49",
+   "cycle": "after Halloween à la filmothèque",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2021/06/The-Thing-aff-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/the-thing/"
   },
   {
    "cine": "Épée de Bois",
@@ -2098,6 +2423,19 @@
    "url": "https://www.offi.fr/cinema/evenement/butterfly-jam-107945.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-09",
+   "heure": "18:20",
+   "titre": "L'IMPÉRATRICE ROUGE",
+   "annee": "1934",
+   "duree": "1h45",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/03/IMPERATRICE-ROUGE-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/limperatrice-rouge/"
+  },
+  {
    "cine": "Épée de Bois",
    "salle": "",
    "date": "2026-11-09",
@@ -2109,6 +2447,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107860/images/120/78dc7c88fcc36c53f178afd380c04116.jpg",
    "url": "https://www.offi.fr/cinema/evenement/aprile-version-restauree-107860.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-09",
+   "heure": "19:30",
+   "titre": "La Mouche",
+   "annee": "1986",
+   "duree": "1h35",
+   "cycle": "La Mouche de david cronenberg",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/05/la-mouche.jpg",
+   "url": "https://lafilmotheque.fr/films/la-mouche/"
   },
   {
    "cine": "Le Champo",
@@ -2150,6 +2501,19 @@
    "url": "https://www.offi.fr/cinema/evenement/shining-24391.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-09",
+   "heure": "20:20",
+   "titre": "Shanghai express",
+   "annee": "1932",
+   "duree": "1h22",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
+   "url": "https://lafilmotheque.fr/films/shanghai-express/"
+  },
+  {
    "cine": "Épée de Bois",
    "salle": "",
    "date": "2026-11-09",
@@ -2163,6 +2527,19 @@
    "url": "https://www.offi.fr/cinema/evenement/une-femme-aujourdhui-108083.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-09",
+   "heure": "22:00",
+   "titre": "Memento",
+   "annee": "2000",
+   "duree": "1h56",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2020/08/memento-325x480.jpg",
+   "url": "https://lafilmotheque.fr/films/memento/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-09",
@@ -2174,6 +2551,19 @@
    "note": "VO",
    "image": "/res/img/photo_vide_small.png",
    "url": "https://www.offi.fr/cinema/evenement/rendez-vous-avec-la-peur-22538.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-09",
+   "heure": "22:10",
+   "titre": "WHIPLASH",
+   "annee": "2014",
+   "duree": "1h47",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2023/01/whiplash_affiche-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/whiplash/"
   },
   {
    "cine": "Le Champo",
@@ -2200,6 +2590,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/14671/images/120/1aad947cc6d039adda76888c83d669e1.jpg",
    "url": "https://www.offi.fr/cinema/evenement/jeux-dete-14671.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-10",
+   "heure": "13:30",
+   "titre": "Léviathan (2014)",
+   "annee": "2014",
+   "duree": "2h21",
+   "cycle": "Andreï Zviaguintsev avant minotaure",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2017/09/arton9513-342x480.jpg",
+   "url": "https://lafilmotheque.fr/films/leviathan-2/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-10",
+   "heure": "13:30",
+   "titre": "L'IMPÉRATRICE ROUGE",
+   "annee": "1934",
+   "duree": "1h45",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/03/IMPERATRICE-ROUGE-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/limperatrice-rouge/"
   },
   {
    "cine": "Le Champo",
@@ -2254,6 +2670,19 @@
    "url": "https://www.offi.fr/cinema/evenement/la-vie-dune-femme-106334.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-10",
+   "heure": "15:25",
+   "titre": "Shanghai express",
+   "annee": "1932",
+   "duree": "1h22",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
+   "url": "https://lafilmotheque.fr/films/shanghai-express/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-10",
@@ -2265,6 +2694,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/108211/images/120/df1c2387ae5425bf571819e990b1bc94.jpg",
    "url": "https://www.offi.fr/cinema/evenement/safe-version-restauree-108211.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-10",
+   "heure": "16:00",
+   "titre": "La Femme infidèle",
+   "annee": "1969",
+   "duree": "1h38",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2018/04/artoff3304-363x480.jpg",
+   "url": "https://lafilmotheque.fr/films/la-femme-infidele/"
   },
   {
    "cine": "Le Champo",
@@ -2291,6 +2733,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107939/images/120/7fc7748ba680689a8ab360e719f304c8.jpg",
    "url": "https://www.offi.fr/cinema/evenement/the-social-reckoning-107939.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-10",
+   "heure": "17:00",
+   "titre": "Blonde Venus",
+   "annee": "1932",
+   "duree": "1h32",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/BLONDE-VENUS-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/blonde-venus/"
   },
   {
    "cine": "Panthéon",
@@ -2332,6 +2787,19 @@
    "url": "https://www.offi.fr/cinema/evenement/splendor-98832.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-10",
+   "heure": "17:50",
+   "titre": "Je t'aime, je t'aime",
+   "annee": "1968",
+   "duree": "1h34",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/09/affiche.webp",
+   "url": "https://lafilmotheque.fr/films/je-taime-je-taime/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-10",
@@ -2343,6 +2811,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/10357/images/120/76a5898cd2c955ed12094523087deb76.jpg",
    "url": "https://www.offi.fr/cinema/evenement/la-famille-10357.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-10",
+   "heure": "18:45",
+   "titre": "La femme et le pantin (The Devil is a Woman)",
+   "annee": "1935",
+   "duree": "1h20",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/FEMME-PANTIN-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/la-femme-et-le-pantin-the-devil-is-a-woman/"
   },
   {
    "cine": "Épée de Bois",
@@ -2371,6 +2852,19 @@
    "url": "https://www.offi.fr/cinema/evenement/garance-107782.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-10",
+   "heure": "19:35",
+   "titre": "Chungking express",
+   "annee": "1994",
+   "duree": "1h43",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/07/CHUNGKING-EXPRESS-AFF-352x480.jpg",
+   "url": "https://lafilmotheque.fr/films/chungking-express/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-10",
@@ -2395,6 +2889,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107945/images/120/bdc80b921050d6e6a0c8c6214a447fde.jpeg",
    "url": "https://www.offi.fr/cinema/evenement/butterfly-jam-107945.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-10",
+   "heure": "20:20",
+   "titre": "L'IMPÉRATRICE ROUGE",
+   "annee": "1934",
+   "duree": "1h45",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/03/IMPERATRICE-ROUGE-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/limperatrice-rouge/"
   },
   {
    "cine": "Le Champo",
@@ -2436,6 +2943,19 @@
    "url": "https://www.offi.fr/cinema/evenement/de-la-comedie-francaise-106794.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-10",
+   "heure": "21:30",
+   "titre": "EYES WIDE SHUT",
+   "annee": "1999",
+   "duree": "2h39",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/03/eyes-wide-shut-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/eyes-wide-shut/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-10",
@@ -2447,6 +2967,19 @@
    "note": "",
    "image": "https://files.offi.fr/evenement/26190/images/120/3360ad4c37eaf4f4de2d812dfe99cb2e.jpg",
    "url": "https://www.offi.fr/cinema/evenement/les-tontons-flingueurs-26190.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-10",
+   "heure": "22:20",
+   "titre": "LA CHINOISE",
+   "annee": "1967",
+   "duree": "1h39",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2022/09/la-chinoise-357x480.jpg",
+   "url": "https://lafilmotheque.fr/films/la-chinoise/"
   }
  ]
 }
