@@ -1,425 +1,9 @@
 {
- "maj": "2026-11-10T13:38",
+ "maj": "2026-11-11T12:50",
  "problemes": [
   "La Clef : aucune séance récupérée"
  ],
  "seances": [
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "11:50",
-   "titre": "Les Communiants",
-   "annee": "",
-   "duree": "1h20",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/6404/images/120/8850ebd7d943b19479787091a4d4487d.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/les-communiants-6404.html"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "12:00",
-   "titre": "Jeux d'été",
-   "annee": "",
-   "duree": "1h36",
-   "cycle": "Comédie dramatique",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/14671/images/120/1aad947cc6d039adda76888c83d669e1.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/jeux-dete-14671.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Marilyn",
-   "date": "2026-11-10",
-   "heure": "13:30",
-   "titre": "Léviathan (2014)",
-   "annee": "2014",
-   "duree": "2h21",
-   "cycle": "Andreï Zviaguintsev avant minotaure",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2017/09/arton9513-342x480.jpg",
-   "url": "https://lafilmotheque.fr/films/leviathan-2/"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Audrey",
-   "date": "2026-11-10",
-   "heure": "13:30",
-   "titre": "L'IMPÉRATRICE ROUGE",
-   "annee": "1934",
-   "duree": "1h45",
-   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/03/IMPERATRICE-ROUGE-affiche-321x480.jpg",
-   "url": "https://lafilmotheque.fr/films/limperatrice-rouge/"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "13:45",
-   "titre": "Poison",
-   "annee": "",
-   "duree": "1h25",
-   "cycle": "Todd Haynes : Les premiers pas",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/108136/images/120/ddebe2fde8badec63b43700b488c1181.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/poison-version-restauree-108136.html"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "13:50",
-   "titre": "Affreux, sales et méchants",
-   "annee": "",
-   "duree": "1h55",
-   "cycle": "Comédie dramatique",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/813/images/120/c49f029badc71ac6ef96c79f7f175120.jpeg",
-   "url": "https://www.offi.fr/cinema/evenement/affreux-sales-et-mechants-813.html"
-  },
-  {
-   "cine": "Panthéon",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "15:00",
-   "titre": "Butterfly Jam",
-   "annee": "",
-   "duree": "1h42",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107945/images/120/bdc80b921050d6e6a0c8c6214a447fde.jpeg",
-   "url": "https://www.offi.fr/cinema/evenement/butterfly-jam-107945.html"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "15:00",
-   "titre": "La Vie d'une femme",
-   "annee": "",
-   "duree": "1h38",
-   "cycle": "Drame",
-   "note": "",
-   "image": "https://files.offi.fr/evenement/106334/images/120/6c7207171a02855e6e1af044ae275cd2.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/la-vie-dune-femme-106334.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Audrey",
-   "date": "2026-11-10",
-   "heure": "15:25",
-   "titre": "Shanghai express",
-   "annee": "1932",
-   "duree": "1h22",
-   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
-   "url": "https://lafilmotheque.fr/films/shanghai-express/"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "15:25",
-   "titre": "Safe",
-   "annee": "",
-   "duree": "1h59",
-   "cycle": "Todd Haynes : Les premiers pas",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/108211/images/120/df1c2387ae5425bf571819e990b1bc94.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/safe-version-restauree-108211.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Marilyn",
-   "date": "2026-11-10",
-   "heure": "16:00",
-   "titre": "La Femme infidèle",
-   "annee": "1969",
-   "duree": "1h38",
-   "cycle": "",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2018/04/artoff3304-363x480.jpg",
-   "url": "https://lafilmotheque.fr/films/la-femme-infidele/"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "16:00",
-   "titre": "Affreux, sales et méchants",
-   "annee": "",
-   "duree": "1h55",
-   "cycle": "Comédie dramatique",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/813/images/120/c49f029badc71ac6ef96c79f7f175120.jpeg",
-   "url": "https://www.offi.fr/cinema/evenement/affreux-sales-et-mechants-813.html"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "16:30",
-   "titre": "The Social Reckoning",
-   "annee": "",
-   "duree": "1h52",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107939/images/120/7fc7748ba680689a8ab360e719f304c8.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/the-social-reckoning-107939.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Audrey",
-   "date": "2026-11-10",
-   "heure": "17:00",
-   "titre": "Blonde Venus",
-   "annee": "1932",
-   "duree": "1h32",
-   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/BLONDE-VENUS-affiche-321x480.jpg",
-   "url": "https://lafilmotheque.fr/films/blonde-venus/"
-  },
-  {
-   "cine": "Panthéon",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "17:00",
-   "titre": "Fjord",
-   "annee": "",
-   "duree": "2h26",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107399/images/120/a7e7b61e5bd13db23e215ccbc04ae013.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "17:00",
-   "titre": "Les Roches rouges",
-   "annee": "",
-   "duree": "1h30",
-   "cycle": "Drame",
-   "note": "",
-   "image": "https://files.offi.fr/evenement/107775/images/120/a974798e868f2eb65ada216006559c81.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/les-roches-rouges-107775.html"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "17:35",
-   "titre": "Splendor",
-   "annee": "",
-   "duree": "1h39",
-   "cycle": "Comédie dramatique",
-   "note": "VO",
-   "image": "/res/img/photo_vide_small.png",
-   "url": "https://www.offi.fr/cinema/evenement/splendor-98832.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Marilyn",
-   "date": "2026-11-10",
-   "heure": "17:50",
-   "titre": "Je t'aime, je t'aime",
-   "annee": "1968",
-   "duree": "1h34",
-   "cycle": "",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/09/affiche.webp",
-   "url": "https://lafilmotheque.fr/films/je-taime-je-taime/"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "18:15",
-   "titre": "La Famille",
-   "annee": "",
-   "duree": "2h07",
-   "cycle": "Comédie dramatique",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/10357/images/120/76a5898cd2c955ed12094523087deb76.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/la-famille-10357.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Audrey",
-   "date": "2026-11-10",
-   "heure": "18:45",
-   "titre": "La femme et le pantin (The Devil is a Woman)",
-   "annee": "1935",
-   "duree": "1h20",
-   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/FEMME-PANTIN-affiche-321x480.jpg",
-   "url": "https://lafilmotheque.fr/films/la-femme-et-le-pantin-the-devil-is-a-woman/"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "18:45",
-   "titre": "Une femme aujourd'hui",
-   "annee": "",
-   "duree": "2h02",
-   "cycle": "Comédie dramatique",
-   "note": "",
-   "image": "https://files.offi.fr/evenement/108083/images/120/ad116a0087f83982b9b33f2cdbd39bab.jpeg",
-   "url": "https://www.offi.fr/cinema/evenement/une-femme-aujourdhui-108083.html"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "18:50",
-   "titre": "Garance",
-   "annee": "",
-   "duree": "1h45",
-   "cycle": "Drame",
-   "note": "",
-   "image": "https://files.offi.fr/evenement/107782/images/120/ee89b54d4f42da57f325c0c24e12c91f.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/garance-107782.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Marilyn",
-   "date": "2026-11-10",
-   "heure": "19:35",
-   "titre": "Chungking express",
-   "annee": "1994",
-   "duree": "1h43",
-   "cycle": "",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/07/CHUNGKING-EXPRESS-AFF-352x480.jpg",
-   "url": "https://lafilmotheque.fr/films/chungking-express/"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "19:40",
-   "titre": "Safe",
-   "annee": "",
-   "duree": "1h59",
-   "cycle": "Todd Haynes : Les premiers pas",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/108211/images/120/df1c2387ae5425bf571819e990b1bc94.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/safe-version-restauree-108211.html"
-  },
-  {
-   "cine": "Panthéon",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "20:00",
-   "titre": "Butterfly Jam",
-   "annee": "",
-   "duree": "1h42",
-   "cycle": "Drame",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107945/images/120/bdc80b921050d6e6a0c8c6214a447fde.jpeg",
-   "url": "https://www.offi.fr/cinema/evenement/butterfly-jam-107945.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Audrey",
-   "date": "2026-11-10",
-   "heure": "20:20",
-   "titre": "L'IMPÉRATRICE ROUGE",
-   "annee": "1934",
-   "duree": "1h45",
-   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/03/IMPERATRICE-ROUGE-affiche-321x480.jpg",
-   "url": "https://lafilmotheque.fr/films/limperatrice-rouge/"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "21:00",
-   "titre": "Affreux, sales et méchants",
-   "annee": "",
-   "duree": "1h55",
-   "cycle": "Comédie dramatique",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/813/images/120/c49f029badc71ac6ef96c79f7f175120.jpeg",
-   "url": "https://www.offi.fr/cinema/evenement/affreux-sales-et-mechants-813.html"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "21:10",
-   "titre": "Aprile",
-   "annee": "",
-   "duree": "1h18",
-   "cycle": "Comédie dramatique",
-   "note": "VO",
-   "image": "https://files.offi.fr/evenement/107860/images/120/78dc7c88fcc36c53f178afd380c04116.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/aprile-version-restauree-107860.html"
-  },
-  {
-   "cine": "Épée de Bois",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "21:10",
-   "titre": "De la Comédie-Française",
-   "annee": "",
-   "duree": "1h15",
-   "cycle": "Comédie",
-   "note": "",
-   "image": "https://files.offi.fr/evenement/106794/images/120/3b914edbd1b237bba1788a3d54b6968e.jpeg",
-   "url": "https://www.offi.fr/cinema/evenement/de-la-comedie-francaise-106794.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Marilyn",
-   "date": "2026-11-10",
-   "heure": "21:30",
-   "titre": "EYES WIDE SHUT",
-   "annee": "1999",
-   "duree": "2h39",
-   "cycle": "",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/03/eyes-wide-shut-321x480.jpg",
-   "url": "https://lafilmotheque.fr/films/eyes-wide-shut/"
-  },
-  {
-   "cine": "Le Champo",
-   "salle": "",
-   "date": "2026-11-10",
-   "heure": "21:50",
-   "titre": "Les Tontons flingueurs",
-   "annee": "",
-   "duree": "1h45",
-   "cycle": "Comédie",
-   "note": "",
-   "image": "https://files.offi.fr/evenement/26190/images/120/3360ad4c37eaf4f4de2d812dfe99cb2e.jpg",
-   "url": "https://www.offi.fr/cinema/evenement/les-tontons-flingueurs-26190.html"
-  },
-  {
-   "cine": "Filmothèque",
-   "salle": "Salle Audrey",
-   "date": "2026-11-10",
-   "heure": "22:20",
-   "titre": "LA CHINOISE",
-   "annee": "1967",
-   "duree": "1h39",
-   "cycle": "",
-   "note": "",
-   "image": "https://lafilmotheque.fr/v4/content/uploads/2022/09/la-chinoise-357x480.jpg",
-   "url": "https://lafilmotheque.fr/films/la-chinoise/"
-  },
   {
    "cine": "Le Champo",
    "salle": "",
@@ -445,6 +29,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/108489/images/120/4a4df0696535242409f06136132d4496.jpg",
    "url": "https://www.offi.fr/cinema/evenement/demain-est-un-autre-jour-version-restauree-108489.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-11",
+   "heure": "13:30",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-11",
+   "heure": "13:40",
+   "titre": "Faute d'amour",
+   "annee": "2017",
+   "duree": "2h07",
+   "cycle": "Andreï Zviaguintsev avant minotaure",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Faute-damour-affiche-360x480.webp",
+   "url": "https://lafilmotheque.fr/films/faute-damour/"
   },
   {
    "cine": "Épée de Bois",
@@ -499,6 +109,19 @@
    "url": "https://www.offi.fr/cinema/evenement/butterfly-jam-107945.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-11",
+   "heure": "15:40",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
    "cine": "Épée de Bois",
    "salle": "",
    "date": "2026-11-11",
@@ -510,6 +133,19 @@
    "note": "",
    "image": "https://files.offi.fr/evenement/106794/images/120/3b914edbd1b237bba1788a3d54b6968e.jpeg",
    "url": "https://www.offi.fr/cinema/evenement/de-la-comedie-francaise-106794.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-11",
+   "heure": "16:00",
+   "titre": "L'ange bleu",
+   "annee": "1930",
+   "duree": "1h44",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/11/Lange-bleu-affiche-356x480.jpg",
+   "url": "https://lafilmotheque.fr/films/lange-bleu/"
   },
   {
    "cine": "Épée de Bois",
@@ -577,6 +213,32 @@
    "url": "https://www.offi.fr/cinema/evenement/notre-salut-107839.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-11",
+   "heure": "17:50",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-11",
+   "heure": "18:00",
+   "titre": "Shanghai express",
+   "annee": "1932",
+   "duree": "1h22",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
+   "url": "https://lafilmotheque.fr/films/shanghai-express/"
+  },
+  {
    "cine": "Épée de Bois",
    "salle": "",
    "date": "2026-11-11",
@@ -614,6 +276,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/813/images/120/c49f029badc71ac6ef96c79f7f175120.jpeg",
    "url": "https://www.offi.fr/cinema/evenement/affreux-sales-et-mechants-813.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-11",
+   "heure": "19:40",
+   "titre": "Les Anges déchus",
+   "annee": "1995",
+   "duree": "1h39",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/07/FALLEN-ANGELS-AFF-352x480.jpg",
+   "url": "https://lafilmotheque.fr/films/les-anges-dechus/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-11",
+   "heure": "20:00",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
   },
   {
    "cine": "Le Champo",
@@ -681,6 +369,19 @@
    "url": "https://www.offi.fr/cinema/evenement/ran-22265.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-11",
+   "heure": "21:40",
+   "titre": "Lost Highway",
+   "annee": "1997",
+   "duree": "2h15",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/03/lost-highway-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/lost-highway/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-11",
@@ -692,6 +393,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/108211/images/120/df1c2387ae5425bf571819e990b1bc94.jpg",
    "url": "https://www.offi.fr/cinema/evenement/safe-version-restauree-108211.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-11",
+   "heure": "22:10",
+   "titre": "Quand Harry rencontre Sally",
+   "annee": "1989",
+   "duree": "1h36",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/07/Capture-decran-2025-07-18-a-14.43.53-343x480.png",
+   "url": "https://lafilmotheque.fr/films/quand-harry-rencontre-sally/"
   },
   {
    "cine": "Le Champo",
@@ -746,6 +460,32 @@
    "url": "https://www.offi.fr/cinema/evenement/une-femme-aujourdhui-108083.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-12",
+   "heure": "13:30",
+   "titre": "Blonde Venus",
+   "annee": "1932",
+   "duree": "1h32",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/BLONDE-VENUS-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/blonde-venus/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-12",
+   "heure": "13:30",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-12",
@@ -798,6 +538,19 @@
    "url": "https://www.offi.fr/cinema/evenement/butterfly-jam-107945.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-12",
+   "heure": "15:10",
+   "titre": "Shanghai express",
+   "annee": "1932",
+   "duree": "1h22",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
+   "url": "https://lafilmotheque.fr/films/shanghai-express/"
+  },
+  {
    "cine": "Épée de Bois",
    "salle": "",
    "date": "2026-11-12",
@@ -809,6 +562,19 @@
    "note": "",
    "image": "https://files.offi.fr/evenement/107782/images/120/ee89b54d4f42da57f325c0c24e12c91f.jpg",
    "url": "https://www.offi.fr/cinema/evenement/garance-107782.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-12",
+   "heure": "15:40",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
   },
   {
    "cine": "Le Champo",
@@ -850,6 +616,19 @@
    "url": "https://www.offi.fr/cinema/evenement/fjord-107399.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-12",
+   "heure": "16:40",
+   "titre": "La femme et le pantin (The Devil is a Woman)",
+   "annee": "1935",
+   "duree": "1h20",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/FEMME-PANTIN-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/la-femme-et-le-pantin-the-devil-is-a-woman/"
+  },
+  {
    "cine": "Épée de Bois",
    "salle": "",
    "date": "2026-11-12",
@@ -887,6 +666,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/108489/images/120/4a4df0696535242409f06136132d4496.jpg",
    "url": "https://www.offi.fr/cinema/evenement/demain-est-un-autre-jour-version-restauree-108489.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-12",
+   "heure": "17:50",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-12",
+   "heure": "18:10",
+   "titre": "Le Baiser du tueur",
+   "annee": "1962",
+   "duree": "1h07",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2018/01/0619584.jpg-r_1920_1080-f_jpg-q_x-xxyxx-339x480.jpg",
+   "url": "https://lafilmotheque.fr/films/le-baiser-du-tueur/"
   },
   {
    "cine": "Le Champo",
@@ -928,6 +733,19 @@
    "url": "https://www.offi.fr/cinema/evenement/demain-est-un-autre-jour-version-restauree-108489.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-12",
+   "heure": "19:30",
+   "titre": "Cléo de 5 à 7",
+   "annee": "1962",
+   "duree": "1h30",
+   "cycle": "Cléo de DE 5 à 7 d'agnès varda",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2023/07/cleo_de_5_a_7-937846899-large-341x480.jpg",
+   "url": "https://lafilmotheque.fr/films/cleo-de-5-a-7/"
+  },
+  {
    "cine": "Épée de Bois",
    "salle": "",
    "date": "2026-11-12",
@@ -939,6 +757,19 @@
    "note": "",
    "image": "https://files.offi.fr/evenement/107839/images/120/980328359bdb83e1a60755105f7e171a.jpg",
    "url": "https://www.offi.fr/cinema/evenement/notre-salut-107839.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-12",
+   "heure": "20:00",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
   },
   {
    "cine": "Panthéon",
@@ -980,6 +811,32 @@
    "url": "https://www.offi.fr/cinema/evenement/rendez-vous-avec-la-peur-22538.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-12",
+   "heure": "22:10",
+   "titre": "CHRISTINE",
+   "annee": "1983",
+   "duree": "1h51",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2021/10/RECTO_FLYER_CHRISTINE_210X297_page-0001-269x380-1.jpg",
+   "url": "https://lafilmotheque.fr/films/christine/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-12",
+   "heure": "22:20",
+   "titre": "Nos Années sauvages",
+   "annee": "1990",
+   "duree": "1h33",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/07/AFF-light-NOS-ANNEES-SAUVAGES-HD-361x480.jpg",
+   "url": "https://lafilmotheque.fr/films/nos-annees-sauvages/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-13",
@@ -1017,6 +874,32 @@
    "note": "",
    "image": "https://files.offi.fr/evenement/107839/images/120/980328359bdb83e1a60755105f7e171a.jpg",
    "url": "https://www.offi.fr/cinema/evenement/notre-salut-107839.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-13",
+   "heure": "13:30",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-13",
+   "heure": "13:30",
+   "titre": "Shanghai express",
+   "annee": "1932",
+   "duree": "1h22",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
+   "url": "https://lafilmotheque.fr/films/shanghai-express/"
   },
   {
    "cine": "Épée de Bois",
@@ -1058,6 +941,19 @@
    "url": "https://www.offi.fr/cinema/evenement/affreux-sales-et-mechants-813.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-13",
+   "heure": "15:05",
+   "titre": "L'IMPÉRATRICE ROUGE",
+   "annee": "1934",
+   "duree": "1h45",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/03/IMPERATRICE-ROUGE-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/limperatrice-rouge/"
+  },
+  {
    "cine": "Panthéon",
    "salle": "",
    "date": "2026-11-13",
@@ -1069,6 +965,19 @@
    "note": "",
    "image": "https://files.offi.fr/evenement/107945/images/120/bdc80b921050d6e6a0c8c6214a447fde.jpeg",
    "url": "https://www.offi.fr/cinema/evenement/butterfly-jam-107945.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-13",
+   "heure": "15:40",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
   },
   {
    "cine": "Le Champo",
@@ -1123,6 +1032,19 @@
    "url": "https://www.offi.fr/cinema/evenement/quelle-heure-est-il-22069.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-13",
+   "heure": "17:00",
+   "titre": "Blonde Venus",
+   "annee": "1932",
+   "duree": "1h32",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/BLONDE-VENUS-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/blonde-venus/"
+  },
+  {
    "cine": "Panthéon",
    "salle": "",
    "date": "2026-11-13",
@@ -1147,6 +1069,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/108489/images/120/4a4df0696535242409f06136132d4496.jpg",
    "url": "https://www.offi.fr/cinema/evenement/demain-est-un-autre-jour-version-restauree-108489.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-13",
+   "heure": "17:50",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
   },
   {
    "cine": "Épée de Bois",
@@ -1188,6 +1123,19 @@
    "url": "https://www.offi.fr/cinema/evenement/de-la-comedie-francaise-106794.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-13",
+   "heure": "18:50",
+   "titre": "3 Billboards, Les Panneaux de la vengeance",
+   "annee": "2018",
+   "duree": "1h56",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/11/3-Billboards-affiche-354x480.jpg",
+   "url": "https://lafilmotheque.fr/films/3-billboards-les-panneaux-de-la-vengeance/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-13",
@@ -1199,6 +1147,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/108489/images/120/4a4df0696535242409f06136132d4496.jpg",
    "url": "https://www.offi.fr/cinema/evenement/demain-est-un-autre-jour-version-restauree-108489.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-13",
+   "heure": "20:00",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
   },
   {
    "cine": "Le Champo",
@@ -1266,6 +1227,19 @@
    "url": "https://www.offi.fr/cinema/evenement/la-guerre-du-feu-12577.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-13",
+   "heure": "21:00",
+   "titre": "CASINO",
+   "annee": "1995",
+   "duree": "2h58",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2017/01/Casino-341x480.jpg",
+   "url": "https://lafilmotheque.fr/films/casino/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-13",
@@ -1277,6 +1251,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/9879/images/120/fce99133991cb00c1b17839a40730b21.jpg",
    "url": "https://www.offi.fr/cinema/evenement/lesprit-de-la-ruche-9879.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-13",
+   "heure": "22:20",
+   "titre": "Phantom Thread",
+   "annee": "2017",
+   "duree": "2h10",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2018/12/3149649.jpg-r_1280_720-f_jpg-q_x-xxyxx-357x480.jpg",
+   "url": "https://lafilmotheque.fr/films/phantom-thread/"
   },
   {
    "cine": "Le Champo",
@@ -1344,6 +1331,32 @@
    "url": "https://www.offi.fr/cinema/evenement/les-roches-rouges-107775.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-14",
+   "heure": "13:30",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-14",
+   "heure": "13:30",
+   "titre": "Pickpocket",
+   "annee": "1959",
+   "duree": "1h15",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2024/05/19052621-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/pickpocket/"
+  },
+  {
    "cine": "Épée de Bois",
    "salle": "",
    "date": "2026-11-14",
@@ -1409,6 +1422,32 @@
    "url": "https://www.offi.fr/cinema/evenement/le-robot-sauvage-98733.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-14",
+   "heure": "14:55",
+   "titre": "Vivre sa vie",
+   "annee": "1962",
+   "duree": "1h24",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/07/affiche-Vivre-sa-vie-1962-2-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/vivre-sa-vie/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-14",
+   "heure": "15:40",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
    "cine": "Épée de Bois",
    "salle": "",
    "date": "2026-11-14",
@@ -1461,6 +1500,19 @@
    "url": "https://www.offi.fr/cinema/evenement/une-journee-particuliere-27817.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-14",
+   "heure": "16:30",
+   "titre": "L'ange bleu",
+   "annee": "1930",
+   "duree": "1h44",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/11/Lange-bleu-affiche-356x480.jpg",
+   "url": "https://lafilmotheque.fr/films/lange-bleu/"
+  },
+  {
    "cine": "Épée de Bois",
    "salle": "",
    "date": "2026-11-14",
@@ -1500,6 +1552,19 @@
    "url": "https://www.offi.fr/cinema/evenement/demain-est-un-autre-jour-version-restauree-108489.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-14",
+   "heure": "17:50",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-14",
@@ -1526,6 +1591,19 @@
    "url": "https://www.offi.fr/cinema/evenement/une-femme-aujourdhui-108083.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-14",
+   "heure": "18:25",
+   "titre": "L'IMPÉRATRICE ROUGE",
+   "annee": "1934",
+   "duree": "1h45",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/03/IMPERATRICE-ROUGE-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/limperatrice-rouge/"
+  },
+  {
    "cine": "Panthéon",
    "salle": "",
    "date": "2026-11-14",
@@ -1550,6 +1628,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/108489/images/120/4a4df0696535242409f06136132d4496.jpg",
    "url": "https://www.offi.fr/cinema/evenement/demain-est-un-autre-jour-version-restauree-108489.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-14",
+   "heure": "20:00",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-14",
+   "heure": "20:20",
+   "titre": "Shanghai express",
+   "annee": "1932",
+   "duree": "1h22",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
+   "url": "https://lafilmotheque.fr/films/shanghai-express/"
   },
   {
    "cine": "Le Champo",
@@ -1615,6 +1719,32 @@
    "note": "",
    "image": "https://files.offi.fr/evenement/54574/images/120/8e6ab89bac08841f683e5de27e7035b2.jpg",
    "url": "https://www.offi.fr/cinema/evenement/white-bird-54574.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-14",
+   "heure": "21:50",
+   "titre": "Fight Club",
+   "annee": "1999",
+   "duree": "2h19",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/05/Fight-club-aff.jpeg",
+   "url": "https://lafilmotheque.fr/films/fight-club/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-14",
+   "heure": "22:15",
+   "titre": "Chungking express",
+   "annee": "1994",
+   "duree": "1h43",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/07/CHUNGKING-EXPRESS-AFF-352x480.jpg",
+   "url": "https://lafilmotheque.fr/films/chungking-express/"
   },
   {
    "cine": "Épée de Bois",
@@ -1695,6 +1825,32 @@
    "url": "https://www.offi.fr/cinema/evenement/the-social-reckoning-107939.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-15",
+   "heure": "13:30",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-15",
+   "heure": "13:30",
+   "titre": "LES YEUX SANS VISAGE",
+   "annee": "1960",
+   "duree": "1h28",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2018/01/Les_Yeux_sans_visage-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/les-yeux-sans-visage-2/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-15",
@@ -1734,6 +1890,19 @@
    "url": "https://www.offi.fr/cinema/evenement/les-aventures-de-robin-des-bois-2576.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-15",
+   "heure": "15:05",
+   "titre": "Blonde Venus",
+   "annee": "1932",
+   "duree": "1h32",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/BLONDE-VENUS-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/blonde-venus/"
+  },
+  {
    "cine": "Panthéon",
    "salle": "",
    "date": "2026-11-15",
@@ -1760,6 +1929,19 @@
    "url": "https://www.offi.fr/cinema/evenement/notre-salut-107839.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-15",
+   "heure": "15:40",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-15",
@@ -1784,6 +1966,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/15531/images/120/44596f5f7fa1878c7e545ed078de6bd3.jpg",
    "url": "https://www.offi.fr/cinema/evenement/lawrence-darabie-15531.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-15",
+   "heure": "16:40",
+   "titre": "Shanghai express",
+   "annee": "1932",
+   "duree": "1h22",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
+   "url": "https://lafilmotheque.fr/films/shanghai-express/"
   },
   {
    "cine": "Panthéon",
@@ -1825,6 +2020,32 @@
    "url": "https://www.offi.fr/cinema/evenement/demain-est-un-autre-jour-version-restauree-108489.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-15",
+   "heure": "17:50",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-15",
+   "heure": "18:10",
+   "titre": "La femme et le pantin (The Devil is a Woman)",
+   "annee": "1935",
+   "duree": "1h20",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/FEMME-PANTIN-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/la-femme-et-le-pantin-the-devil-is-a-woman/"
+  },
+  {
    "cine": "Épée de Bois",
    "salle": "",
    "date": "2026-11-15",
@@ -1864,6 +2085,32 @@
    "url": "https://www.offi.fr/cinema/evenement/demain-est-un-autre-jour-version-restauree-108489.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-15",
+   "heure": "19:40",
+   "titre": "Goodbye, Dragon Inn",
+   "annee": "2004",
+   "duree": "1h22",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/04/18381473-360x480.webp",
+   "url": "https://lafilmotheque.fr/films/goodbye-dragon-inn/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-15",
+   "heure": "20:00",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-15",
@@ -1890,6 +2137,32 @@
    "url": "https://www.offi.fr/cinema/evenement/demain-est-un-autre-jour-version-restauree-108489.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-15",
+   "heure": "21:10",
+   "titre": "La Ligne rouge",
+   "annee": "1999",
+   "duree": "2h50",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2016/07/LigneRouge_Final_Web-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/la-ligne-rouge/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-15",
+   "heure": "22:10",
+   "titre": "Blow Up",
+   "annee": "1967",
+   "duree": "1h51",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2014/04/blow-up-pt.jpg",
+   "url": "https://lafilmotheque.fr/films/blow-up/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-16",
@@ -1914,6 +2187,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/108211/images/120/df1c2387ae5425bf571819e990b1bc94.jpg",
    "url": "https://www.offi.fr/cinema/evenement/safe-version-restauree-108211.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-16",
+   "heure": "13:30",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-16",
+   "heure": "13:30",
+   "titre": "La femme et le pantin (The Devil is a Woman)",
+   "annee": "1935",
+   "duree": "1h20",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/FEMME-PANTIN-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/la-femme-et-le-pantin-the-devil-is-a-woman/"
   },
   {
    "cine": "Le Champo",
@@ -1968,6 +2267,32 @@
    "url": "https://www.offi.fr/cinema/evenement/garance-107782.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-16",
+   "heure": "15:00",
+   "titre": "Shanghai express",
+   "annee": "1932",
+   "duree": "1h22",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
+   "url": "https://lafilmotheque.fr/films/shanghai-express/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-16",
+   "heure": "15:40",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-16",
@@ -1992,6 +2317,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/108489/images/120/4a4df0696535242409f06136132d4496.jpg",
    "url": "https://www.offi.fr/cinema/evenement/demain-est-un-autre-jour-version-restauree-108489.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-16",
+   "heure": "16:30",
+   "titre": "Punishment park",
+   "annee": "1970",
+   "duree": "1h28",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/02/Punishment-park-affiche-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/punishement-park/"
   },
   {
    "cine": "Épée de Bois",
@@ -2046,6 +2384,32 @@
    "url": "https://www.offi.fr/cinema/evenement/affreux-sales-et-mechants-813.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-16",
+   "heure": "17:50",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-16",
+   "heure": "18:10",
+   "titre": "Le Retour",
+   "annee": "2003",
+   "duree": "1h46",
+   "cycle": "Andreï Zviaguintsev avant minotaure",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2017/09/18364888-360x480.jpg",
+   "url": "https://lafilmotheque.fr/films/le-retour/"
+  },
+  {
    "cine": "Épée de Bois",
    "salle": "",
    "date": "2026-11-16",
@@ -2085,6 +2449,19 @@
    "url": "https://www.offi.fr/cinema/evenement/demain-est-un-autre-jour-version-restauree-108489.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-16",
+   "heure": "20:00",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-16",
@@ -2096,6 +2473,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/25742/images/120/3274349aae2337d475ce4697a14a0fad.jpg",
    "url": "https://www.offi.fr/cinema/evenement/les-temps-modernes-25742.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-16",
+   "heure": "20:10",
+   "titre": "In The Mood For Love",
+   "annee": "2000",
+   "duree": "1h38",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2020/10/In-The-Mood-For-Love-Wong-Kar-Wai-354x480.jpg",
+   "url": "https://lafilmotheque.fr/films/in-the-mood-for-love/"
   },
   {
    "cine": "Épée de Bois",
@@ -2137,6 +2527,32 @@
    "url": "https://www.offi.fr/cinema/evenement/de-la-comedie-francaise-106794.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-16",
+   "heure": "22:00",
+   "titre": "THELMA ET LOUISE",
+   "annee": "1991",
+   "duree": "2h09",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/05/5492139-360x480.webp",
+   "url": "https://lafilmotheque.fr/films/thelma-et-louise/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-16",
+   "heure": "22:15",
+   "titre": "Lost in translation",
+   "annee": "2004",
+   "duree": "1h44",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2019/10/lost-in-translation-affiche.jpg",
+   "url": "https://lafilmotheque.fr/films/lost-in-translation/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-17",
@@ -2176,6 +2592,32 @@
    "url": "https://www.offi.fr/cinema/evenement/aprile-version-restauree-107860.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-17",
+   "heure": "13:30",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-17",
+   "heure": "13:30",
+   "titre": "NUIT ET BROUILLARD",
+   "annee": "1955",
+   "duree": "0h32",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/02/affiche-360x480.webp",
+   "url": "https://lafilmotheque.fr/films/nuit-et-brouillard/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-17",
@@ -2200,6 +2642,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/107939/images/120/7fc7748ba680689a8ab360e719f304c8.jpg",
    "url": "https://www.offi.fr/cinema/evenement/the-social-reckoning-107939.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-17",
+   "heure": "14:15",
+   "titre": "L'IMPÉRATRICE ROUGE",
+   "annee": "1934",
+   "duree": "1h45",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2025/03/IMPERATRICE-ROUGE-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/limperatrice-rouge/"
   },
   {
    "cine": "Le Champo",
@@ -2241,6 +2696,19 @@
    "url": "https://www.offi.fr/cinema/evenement/butterfly-jam-107945.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-17",
+   "heure": "15:40",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-17",
@@ -2252,6 +2720,19 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/108489/images/120/4a4df0696535242409f06136132d4496.jpg",
    "url": "https://www.offi.fr/cinema/evenement/demain-est-un-autre-jour-version-restauree-108489.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-17",
+   "heure": "16:10",
+   "titre": "Blonde Venus",
+   "annee": "1932",
+   "duree": "1h32",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/BLONDE-VENUS-affiche-321x480.jpg",
+   "url": "https://lafilmotheque.fr/films/blonde-venus/"
   },
   {
    "cine": "Le Champo",
@@ -2306,6 +2787,32 @@
    "url": "https://www.offi.fr/cinema/evenement/demain-est-un-autre-jour-version-restauree-108489.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-17",
+   "heure": "17:50",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-17",
+   "heure": "17:50",
+   "titre": "Shanghai express",
+   "annee": "1932",
+   "duree": "1h22",
+   "cycle": "Marlene dietrich : quand la femme prend le pouvoir",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Shanghai-express-affiche-321x480.jpeg",
+   "url": "https://lafilmotheque.fr/films/shanghai-express/"
+  },
+  {
    "cine": "Le Champo",
    "salle": "",
    "date": "2026-11-17",
@@ -2345,6 +2852,19 @@
    "url": "https://www.offi.fr/cinema/evenement/demain-est-un-autre-jour-version-restauree-108489.html"
   },
   {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-17",
+   "heure": "19:30",
+   "titre": "Fantômas contre Scotland Yard",
+   "annee": "1967",
+   "duree": "1h45",
+   "cycle": "Fantômas contre Scotland Yard d'andré hunebelle",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/09/Fantomas-contre-scotland-yard-affiche-354x480.jpg",
+   "url": "https://lafilmotheque.fr/films/fantomas-contre-scotland-yard/"
+  },
+  {
    "cine": "Panthéon",
    "salle": "",
    "date": "2026-11-17",
@@ -2356,6 +2876,19 @@
    "note": "VO (Ciné-Club Droits à l'image,échange en présence d’Ana Lúcia, l’une des filles de Eunice et Rubens Paiva, dont l’histoire est au cœur du film, échange animé par Olivier de Frouville, dire",
    "image": "https://files.offi.fr/evenement/99827/images/120/390ca8c6eb35177ae39791656613a6a9.jpg",
    "url": "https://www.offi.fr/cinema/evenement/je-suis-toujours-la-99827.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-17",
+   "heure": "20:00",
+   "titre": "Taxi Driver",
+   "annee": "1976",
+   "duree": "1h55",
+   "cycle": "TAXI DRIVER DE MARTIN SCORSESE EN RéEDITION 4K",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2015/01/affiche-Taxi-Driver-1976-1-346x480.jpg",
+   "url": "https://lafilmotheque.fr/films/taxi-driver/"
   },
   {
    "cine": "Épée de Bois",
@@ -2395,6 +2928,32 @@
    "note": "VO",
    "image": "https://files.offi.fr/evenement/948/images/120/2b58a45e2a3fd9c0ad5247bac045828b.jpg",
    "url": "https://www.offi.fr/cinema/evenement/les-ailes-du-desir-948.html"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Marilyn",
+   "date": "2026-11-17",
+   "heure": "22:00",
+   "titre": "BLUE VELVET",
+   "annee": "1986",
+   "duree": "2h00",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2020/03/bv-362x480.jpg",
+   "url": "https://lafilmotheque.fr/films/blue-velvet/"
+  },
+  {
+   "cine": "Filmothèque",
+   "salle": "Salle Audrey",
+   "date": "2026-11-17",
+   "heure": "22:10",
+   "titre": "O'Brother",
+   "annee": "2000",
+   "duree": "1h46",
+   "cycle": "",
+   "note": "",
+   "image": "https://lafilmotheque.fr/v4/content/uploads/2026/11/OBrother-affiche-354x480.jpg",
+   "url": "https://lafilmotheque.fr/films/obrother/"
   }
  ]
 }
